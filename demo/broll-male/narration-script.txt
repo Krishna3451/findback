@@ -1,0 +1,15 @@
+Alex has lost his headphone case in the library, and he’s already late for his bus. Somewhere nearby, Ava finds a case and wants to help. Getting it back should be simple.
+
+The usual solution is a post in the campus group: what was found, and where. Alex spots it and replies beneath the message. Now the finder and the possible owner are connected. That’s a useful start.
+
+But a black case is a common description. The post doesn’t tell the librarian whose it is. Someone still has to ask the right questions, check the answers, and arrange collection. That handoff is where a helpful conversation can get stuck.
+
+FindBack carries that conversation forward. It connects the original post, the claimant’s private chat, and the librarian’s review—giving each person a clear next step while keeping the final decision with the librarian.
+
+FindBack continues in Alex’s private chat and asks him to confirm what he lost. Then it asks an open question about distinguishing marks or contents. The desk’s identifying answers stay private. After struggling to remember at first, Alex describes a red thread on the zipper and initials inside the case. His own description becomes the evidence the librarian can review.
+
+The agent takes that description to Mira’s private review conversation. It brings Alex’s words together with the desk’s record and explains the possible match. Mira checks the details and approves this specific case for Alex. Her approval authorizes collection, and the agent then reserves the item.
+
+Alex receives a private confirmation: Mira has approved his request, and his case is reserved at the library desk. The collection instructions tell him to ask for Mira and show his recovery chat. He now knows where to go and what to do.
+
+The found-item post has become an approved pickup. The evidence and decision stay connected, and Alex doesn’t have to carry the conversation between people. Switch connects the group, the private chats, and the agents. AI coordinates the handoff; the librarian stays in control.

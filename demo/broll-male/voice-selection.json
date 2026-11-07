@@ -1,0 +1,18 @@
+{
+  "voice_id": "iP95p4xoKVk53GoZ742B",
+  "voice_name": "Chris - Charming, Down-to-Earth",
+  "model_id": "eleven_v3",
+  "accent": "american",
+  "gender": "male",
+  "use_case": "conversational",
+  "source": "Official premade voice available to the provided API plan, selected under user authorization for best American conversational voice.",
+  "native_tempo_factor": 1.0,
+  "unavailable_requested_voice": {
+    "voice_id": "OEHTkiHZj6OczWZHu0Aj",
+    "voice_name": "John - Conversational",
+    "import_succeeded": true,
+    "generation_http_status": 402,
+    "generation_error_code": "payment_required",
+    "generation_error_meaning": "Free users cannot use library voices via the API. No upgrade or purchase attempted."
+  }
+}

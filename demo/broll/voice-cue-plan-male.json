@@ -1,0 +1,70 @@
+{
+  "2": [
+    {
+      "frame": "scene-02/frame-000023.jpg"
+    },
+    {
+      "frame": "scene-03/frame-000022.jpg",
+      "cue": "Alex spots"
+    }
+  ],
+  "4": [
+    {
+      "frame": "scene-04/frame-000000.jpg"
+    },
+    {
+      "frame": "scene-04/frame-000027.jpg",
+      "cue": "claimant\u2019s private chat"
+    }
+  ],
+  "5": [
+    {
+      "frame": "scene-05/frame-000011.jpg"
+    },
+    {
+      "frame": "scene-05/frame-000068.jpg",
+      "cue": "Alex describes"
+    }
+  ],
+  "6": [
+    {
+      "frame": "scene-06/frame-000000.jpg"
+    },
+    {
+      "frame": "scene-06/frame-000043.jpg",
+      "cue": "Mira checks"
+    }
+  ],
+  "7": [
+    {
+      "frame": "scene-07/frame-000000.jpg"
+    },
+    {
+      "frame": "scene-07/frame-000056.jpg",
+      "cue": "The collection instructions"
+    }
+  ],
+  "8": [
+    {
+      "frame": "scene-08/frame-000000.jpg"
+    },
+    {
+      "frame": "scene-08/frame-000019.jpg",
+      "cue": "The evidence"
+    },
+    {
+      "frame": "scene-08/frame-000033.jpg",
+      "cue": "Switch connects"
+    }
+  ],
+  "1": [
+    {
+      "frame": "scene-01/frame-000019.jpg"
+    }
+  ],
+  "3": [
+    {
+      "frame": "scene-03/frame-000022.jpg"
+    }
+  ]
+}
