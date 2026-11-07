@@ -1,0 +1,342 @@
+{
+  "schema": 1,
+  "created_at": "2026-11-07T17:56:59.965364+00:00",
+  "kind": "actual browser UI walkthrough with authorized synthetic English narration",
+  "disclosure": "Fictional participants, objects and handovers. Real app messages, model calls and Switch transport. Edited screenshot captures with compressed waits and holds of actual browser frames, including hard cuts timed to spoken phrases; not a continuous recording of every event. ElevenLabs synthetic narration; no generated UI or text overlays.",
+  "source_broll_manifest_sha256": "4041016d5636151402726120a424172004907689fae1b0f33981d571260f38de",
+  "audio_seconds": 127.6,
+  "video_file": "findback-narrated-demo.mp4",
+  "video_sha256": "4286e2e357175952f928d55a7ae311c08a5534853ba664b2882f0fb14e3fc1dd",
+  "ffprobe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "width": 650,
+        "height": 770,
+        "avg_frame_rate": "24/1",
+        "nb_frames": "3059"
+      },
+      {
+        "codec_name": "aac",
+        "avg_frame_rate": "0/0",
+        "nb_frames": "5983"
+      }
+    ],
+    "format": {
+      "duration": "127.600000",
+      "size": "4322697"
+    }
+  },
+  "narration_file": "narration.wav",
+  "narration_sha256": "51c03559b72286e52d6c9b5746b28e1f10f775ef7fff5ac95cd4d2866f8ff2ee",
+  "voice_tempo_factor": 1.0,
+  "alignment": "Exact normalized PCM sample durations; cumulative video boundaries quantized to 24fps. No extra interchapter silence. A tempo factor other than 1 uses pitch-preserving ffmpeg atempo; original TTS files are unchanged.",
+  "chapters": [
+    {
+      "chapter": 1,
+      "label": "Campus context: the public lost-and-found conversation",
+      "audio_input_file": "chapter-01.wav",
+      "audio_input_sha256": "9925d847eff7080c537287265e6677c46b19b52435abb477cee6cc6078ed3696",
+      "normalized_audio_file": "audio/chapter-01.wav",
+      "audio_start_seconds": 0.0,
+      "audio_seconds": 10.56,
+      "video_start_seconds": 0.0,
+      "video_seconds": 10.583333333333334,
+      "native_visual_seconds": 10.583333,
+      "final_actual_frame_hold_seconds": 3.333333342681044e-07,
+      "source_video_file": "native/scene-01/capture.mp4",
+      "source_video_sha256": "fc6efbae0d5794455a130563c332a5a7c0f38253482ad54931b5d19742d03b86",
+      "chapter_video_file": "chapters/chapter-01.mp4",
+      "chapter_video_sha256": "ac398b6e32d76a28496b7dbde90337fb5b3927c059f2a1c80e10325ff64e8ffe",
+      "narration_cued_visual_edit": null
+    },
+    {
+      "chapter": 2,
+      "label": "Found item: Ava reports the black headphone case",
+      "audio_input_file": "chapter-02.wav",
+      "audio_input_sha256": "e8fb4ee1e09943bf8204000a824ab3ed5194d983bb743f831710897cf6740314",
+      "normalized_audio_file": "audio/chapter-02.wav",
+      "audio_start_seconds": 10.56,
+      "audio_seconds": 12.8,
+      "video_start_seconds": 10.583333333333334,
+      "video_seconds": 12.791666666666666,
+      "native_visual_seconds": 12.666667,
+      "final_actual_frame_hold_seconds": 0.12499966666666573,
+      "source_video_file": "native/scene-02/capture.mp4",
+      "source_video_sha256": "6ee90af12639b763c8c6c422193a3cd721f0ec5ee85f014ce088d29420e059bd",
+      "chapter_video_file": "chapters/chapter-02.mp4",
+      "chapter_video_sha256": "528f15630eea9780d25b03504f35f9b66ef918b7527ed33ea753834e5788ffb1",
+      "narration_cued_visual_edit": {
+        "mode": "Narration-cued holds of unchanged actual browser screenshots; hard cuts do not depict live typing or event timing.",
+        "character_alignment_sha256": "a4bd798b06ccd823d871d8726a97986ccc480e5dda2177b611282f09b42384f7",
+        "cuts": [
+          {
+            "source_frame": "scene-02/frame-000023.jpg",
+            "source_at_ms": 1794073334969,
+            "source_sha256": "86abd4ca6d96d5561fdbfc6872e1639a520b0ce148cc07c919af89457b5bea2f",
+            "cue": null,
+            "provider_cue_seconds": 0.0,
+            "output_frame": 0,
+            "output_seconds": 0.0,
+            "held_seconds": 4.916666666666667
+          },
+          {
+            "source_frame": "scene-03/frame-000022.jpg",
+            "source_at_ms": 1794073379466,
+            "source_sha256": "a8d613584d540c9d928be276db27143a9ff24f0f38f2ad317ac8c37df48ec2d2",
+            "cue": "Alex spots",
+            "provider_cue_seconds": 4.896,
+            "output_frame": 118,
+            "output_seconds": 4.916666666666667,
+            "held_seconds": 7.875
+          }
+        ]
+      }
+    },
+    {
+      "chapter": 3,
+      "label": "Alex replies directly to Ava\u2019s found post; FindBack invites him privately",
+      "audio_input_file": "chapter-03.wav",
+      "audio_input_sha256": "43541b49976e32432afeb5448c9b8b87d78e3a9d3d45d37a48eade25a9b11528",
+      "normalized_audio_file": "audio/chapter-03.wav",
+      "audio_start_seconds": 23.36,
+      "audio_seconds": 15.52,
+      "video_start_seconds": 23.375,
+      "video_seconds": 15.541666666666666,
+      "native_visual_seconds": 12.291667,
+      "final_actual_frame_hold_seconds": 3.2499996666666657,
+      "source_video_file": "native/scene-03/capture.mp4",
+      "source_video_sha256": "6792e9e605b5020cdd3b64f9aae98d0707efe4bdf669df77ae0e1d193a5cc302",
+      "chapter_video_file": "chapters/chapter-03.mp4",
+      "chapter_video_sha256": "c2e372c89292c06f1cc804100f5aea29ac983991eb2a37a785b67b35c10c3585",
+      "narration_cued_visual_edit": null
+    },
+    {
+      "chapter": 4,
+      "label": "The public invitation leads into Alex\u2019s private recovery chat",
+      "audio_input_file": "chapter-04.wav",
+      "audio_input_sha256": "038711b1f8267a862c0521a027f6bf1bffcd9a942523f2aa4bfcbfa999fac479",
+      "normalized_audio_file": "audio/chapter-04.wav",
+      "audio_start_seconds": 38.88,
+      "audio_seconds": 13.84,
+      "video_start_seconds": 38.916666666666664,
+      "video_seconds": 13.833333333333334,
+      "native_visual_seconds": 14.916667,
+      "final_actual_frame_hold_seconds": 0,
+      "source_video_file": "edited/scene-04/capture.mp4",
+      "source_video_sha256": "f814e8a42e429787bba5359eddea236f5f59dc7ac15e37dc7bdcb794f344564e",
+      "chapter_video_file": "chapters/chapter-04.mp4",
+      "chapter_video_sha256": "f00625008a4d9cd822320f3c0e910d2c44c86da1a0c7e40e324de0067ee8d7d0",
+      "narration_cued_visual_edit": {
+        "mode": "Narration-cued holds of unchanged actual browser screenshots; hard cuts do not depict live typing or event timing.",
+        "character_alignment_sha256": "21f43b44329d82162356c057cfccf043e2cfe40d94de014248e1011e80a2fbf6",
+        "cuts": [
+          {
+            "source_frame": "scene-04/frame-000000.jpg",
+            "source_at_ms": 1794073404916,
+            "source_sha256": "48db9c3514f5950a0f05b0f07d23df473bd29f225c5d309ada5c63d59631af23",
+            "cue": null,
+            "provider_cue_seconds": 0.0,
+            "output_frame": 0,
+            "output_seconds": 0.0,
+            "held_seconds": 4.916666666666667
+          },
+          {
+            "source_frame": "scene-04/frame-000027.jpg",
+            "source_at_ms": 1794073454704,
+            "source_sha256": "1209aedacfa5d22974a180f45c89bac9707884180d3175f2e636a4c438c0f879",
+            "cue": "claimant\u2019s private chat",
+            "provider_cue_seconds": 4.933,
+            "output_frame": 118,
+            "output_seconds": 4.916666666666667,
+            "held_seconds": 8.916666666666666
+          }
+        ]
+      }
+    },
+    {
+      "chapter": 5,
+      "label": "Alex privately supplies identifying details; his exact words are acknowledged",
+      "audio_input_file": "chapter-05.wav",
+      "audio_input_sha256": "6312dea45abac34421cedcc8d196c5889cc58f2c37326be0735e7ee2923a7fec",
+      "normalized_audio_file": "audio/chapter-05.wav",
+      "audio_start_seconds": 52.72,
+      "audio_seconds": 23.44,
+      "video_start_seconds": 52.75,
+      "video_seconds": 23.416666666666668,
+      "native_visual_seconds": 14.916667,
+      "final_actual_frame_hold_seconds": 8.499999666666668,
+      "source_video_file": "edited/scene-05/capture.mp4",
+      "source_video_sha256": "c8d9cb15817cf945f2603d2621a150d4fbfedbb167385df1d86862b5a958a833",
+      "chapter_video_file": "chapters/chapter-05.mp4",
+      "chapter_video_sha256": "93fdaab1b3fb17c1a9669c885853d50f1c83f89c4173949f25c8c02c0b240cff",
+      "narration_cued_visual_edit": {
+        "mode": "Narration-cued holds of unchanged actual browser screenshots; hard cuts do not depict live typing or event timing.",
+        "character_alignment_sha256": "4ed8d3ce872e40e37ffac25a7497650c6bbe17d6edc625186e37c6fefd794e23",
+        "cuts": [
+          {
+            "source_frame": "scene-05/frame-000011.jpg",
+            "source_at_ms": 1794073491464,
+            "source_sha256": "a7855d063f79f62f57ab0202e446824319a6d18d48120eaeb45f85869097de4b",
+            "cue": null,
+            "provider_cue_seconds": 0.0,
+            "output_frame": 0,
+            "output_seconds": 0.0,
+            "held_seconds": 15.458333333333334
+          },
+          {
+            "source_frame": "scene-05/frame-000068.jpg",
+            "source_at_ms": 1794073568206,
+            "source_sha256": "c0f7650e56c0f61c3239f8466e39440f9910675253efa4e293e0f65503ab79b1",
+            "cue": "Alex describes",
+            "provider_cue_seconds": 15.44,
+            "output_frame": 371,
+            "output_seconds": 15.458333333333334,
+            "held_seconds": 7.958333333333333
+          }
+        ]
+      }
+    },
+    {
+      "chapter": 6,
+      "label": "Mira reviews the actual AI comparison and approves Alex\u2019s exact case",
+      "audio_input_file": "chapter-06.wav",
+      "audio_input_sha256": "dae78852a54274cf2eecc5fc7fa0fb7f935de6bca4dc12b4b642800a3f386683",
+      "normalized_audio_file": "audio/chapter-06.wav",
+      "audio_start_seconds": 76.16,
+      "audio_seconds": 19.6,
+      "video_start_seconds": 76.16666666666667,
+      "video_seconds": 19.625,
+      "native_visual_seconds": 23.166667,
+      "final_actual_frame_hold_seconds": 0,
+      "source_video_file": "edited/scene-06/capture.mp4",
+      "source_video_sha256": "c1f414c4d8ab475546f7f071a5b2d0da210d1d0b881225fb09f7520708c48430",
+      "chapter_video_file": "chapters/chapter-06.mp4",
+      "chapter_video_sha256": "15bed6a3dadb3745dbfe4737f4e7460e34b8121b8aea629252199a3e1dfafa9e",
+      "narration_cued_visual_edit": {
+        "mode": "Narration-cued holds of unchanged actual browser screenshots; hard cuts do not depict live typing or event timing.",
+        "character_alignment_sha256": "b4c904730623782d436b2a1bc04bc4a38a5a28e530f9adb22d82f7d21f935f4e",
+        "cuts": [
+          {
+            "source_frame": "scene-06/frame-000000.jpg",
+            "source_at_ms": 1794073642800,
+            "source_sha256": "4634c4a2b1ae7bf2da5c31b5ddf3916fd25c827895dd0034cdd1c7f7ab841228",
+            "cue": null,
+            "provider_cue_seconds": 0.0,
+            "output_frame": 0,
+            "output_seconds": 0.0,
+            "held_seconds": 9.833333333333334
+          },
+          {
+            "source_frame": "scene-06/frame-000043.jpg",
+            "source_at_ms": 1794073764522,
+            "source_sha256": "0e0388da28f29b0f8f6af63315ff5d8e3e9a3c9e3c6ad8f53884b9d1c2f79d26",
+            "cue": "Mira checks",
+            "provider_cue_seconds": 9.84,
+            "output_frame": 236,
+            "output_seconds": 9.833333333333334,
+            "held_seconds": 9.791666666666666
+          }
+        ]
+      }
+    },
+    {
+      "chapter": 7,
+      "label": "Alex receives the private reservation and complete collection instructions",
+      "audio_input_file": "chapter-07.wav",
+      "audio_input_sha256": "41d5f0b49752605b0954b6436cc9788a22abb2b0c690557d3396fff353949210",
+      "normalized_audio_file": "audio/chapter-07.wav",
+      "audio_start_seconds": 95.76,
+      "audio_seconds": 14.72,
+      "video_start_seconds": 95.79166666666667,
+      "video_seconds": 14.708333333333334,
+      "native_visual_seconds": 12.791667,
+      "final_actual_frame_hold_seconds": 1.9166663333333336,
+      "source_video_file": "edited/scene-07/capture.mp4",
+      "source_video_sha256": "b38ddaa417539fabfe1ab2b59da08ba84c5cd868a24d63fb536e9d9d734a19b0",
+      "chapter_video_file": "chapters/chapter-07.mp4",
+      "chapter_video_sha256": "507b51df2e37f4cf59faf8cc11d2c7c77ef25f63f8aa1d700598a83066173b5a",
+      "narration_cued_visual_edit": {
+        "mode": "Narration-cued holds of unchanged actual browser screenshots; hard cuts do not depict live typing or event timing.",
+        "character_alignment_sha256": "b7003bb1279698d1ad848f2eedf1fe13c87c8cb668975e4bdb5430f261b2fad1",
+        "cuts": [
+          {
+            "source_frame": "scene-07/frame-000000.jpg",
+            "source_at_ms": 1794073818855,
+            "source_sha256": "28d771b96259471102a818e5109239f90543f1c1fa1a46e33a4d8bee9ead6508",
+            "cue": null,
+            "provider_cue_seconds": 0.0,
+            "output_frame": 0,
+            "output_seconds": 0.0,
+            "held_seconds": 7.583333333333333
+          },
+          {
+            "source_frame": "scene-07/frame-000056.jpg",
+            "source_at_ms": 1794073917837,
+            "source_sha256": "0779fe2838cb77d3d8a3cce5ce8aafaa8e360217410236e5345447a7ef0911b8",
+            "cue": "The collection instructions",
+            "provider_cue_seconds": 7.58,
+            "output_frame": 182,
+            "output_seconds": 7.583333333333333,
+            "held_seconds": 7.125
+          }
+        ]
+      }
+    },
+    {
+      "chapter": 8,
+      "label": "The public claim, Mira\u2019s actual approval, and Alex\u2019s collection-ready ending",
+      "audio_input_file": "chapter-08.wav",
+      "audio_input_sha256": "3fba5c254408f8d9a8ddeccb303c06e31e33766e624c3a785b992daa434a4210",
+      "normalized_audio_file": "audio/chapter-08.wav",
+      "audio_start_seconds": 110.48,
+      "audio_seconds": 17.12,
+      "video_start_seconds": 110.5,
+      "video_seconds": 17.125,
+      "native_visual_seconds": 18.166667,
+      "final_actual_frame_hold_seconds": 0,
+      "source_video_file": "edited/scene-08/capture.mp4",
+      "source_video_sha256": "a96b06cf92816561feb243a0db832b267f1976fef8034372b7b9a05e6dc1bed2",
+      "chapter_video_file": "chapters/chapter-08.mp4",
+      "chapter_video_sha256": "1b0c0e2f76aa9d104d25f63b95f366fbbb746d5676c0b470a098147aea196322",
+      "narration_cued_visual_edit": {
+        "mode": "Narration-cued holds of unchanged actual browser screenshots; hard cuts do not depict live typing or event timing.",
+        "character_alignment_sha256": "c93ebe614f6bf4487daadad141452fe33aa128060deacf5ae89588a34a1ab8bd",
+        "cuts": [
+          {
+            "source_frame": "scene-08/frame-000000.jpg",
+            "source_at_ms": 1794074079907,
+            "source_sha256": "5b2db19474ee2d04b3267d65b3118566fc9128a168e35b4a3f66ae4af657979d",
+            "cue": null,
+            "provider_cue_seconds": 0.0,
+            "output_frame": 0,
+            "output_seconds": 0.0,
+            "held_seconds": 2.9166666666666665
+          },
+          {
+            "source_frame": "scene-08/frame-000019.jpg",
+            "source_at_ms": 1794074096536,
+            "source_sha256": "171d53fe622bbd82abaaf7f4da48002f05231b485895bb09cdd6eb461a0542c0",
+            "cue": "The evidence",
+            "provider_cue_seconds": 2.92,
+            "output_frame": 70,
+            "output_seconds": 2.9166666666666665,
+            "held_seconds": 6.0
+          },
+          {
+            "source_frame": "scene-08/frame-000033.jpg",
+            "source_at_ms": 1794074110841,
+            "source_sha256": "7f3b4fc8ff34493be23089b677bf1c82ecd1b1099acf9c796612636d1bcd5745",
+            "cue": "Switch connects",
+            "provider_cue_seconds": 8.937,
+            "output_frame": 214,
+            "output_seconds": 8.916666666666666,
+            "held_seconds": 8.208333333333334
+          }
+        ]
+      }
+    }
+  ]
+}

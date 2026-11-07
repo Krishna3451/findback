@@ -1,0 +1,787 @@
+{
+  "schema": 1,
+  "created_at": "2026-11-07T17:46:45.392968+00:00",
+  "kind": "edited actual browser screen-captured walkthrough",
+  "disclosure": "Scenes navigated during the real scripted run; cuts and waiting gaps compressed. Fictional participants, objects and handovers. Not a continuous capture of every event. No generated UI, added graphics, text slides or narration.",
+  "source_manifest_sha256": "6504546afe380fca20790231611594cf830e1d1095f8c986300364de9b566a43",
+  "source_frame_count": 69,
+  "retained_frame_count": 28,
+  "source_dimensions": [
+    649,
+    769
+  ],
+  "output_dimensions": [
+    650,
+    770
+  ],
+  "pixel_transform": "One black padding pixel on right/bottom if needed for H.264; original browser pixels are not rescaled or cropped. Lossy H.264 compression only.",
+  "timing_rule": {
+    "gap_threshold_seconds": 2.0,
+    "long_gap_output_seconds": 0.7,
+    "final_frame_seconds": 0.7,
+    "fps": 24,
+    "other_intervals": "Original timestamp cadence, quantized to output frames."
+  },
+  "source_elapsed_seconds": 82.452,
+  "edited_duration_seconds": 14.916667,
+  "video_file": "capture.mp4",
+  "video_sha256": "c8d9cb15817cf945f2603d2621a150d4fbfedbb167385df1d86862b5a958a833",
+  "ffprobe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "width": 650,
+        "height": 770,
+        "pix_fmt": "yuvj420p",
+        "avg_frame_rate": "24/1"
+      }
+    ],
+    "format": {
+      "duration": "14.916667",
+      "size": "198413"
+    }
+  },
+  "still_file": "mattermost-chat.jpg",
+  "still_sha256": "c0f7650e56c0f61c3239f8466e39440f9910675253efa4e293e0f65503ab79b1",
+  "omitted_frames": [
+    {
+      "file": "frame-000012.jpg",
+      "reason": "Visually reviewed middle wait and repeated view omitted; first question and final complete identifying assertion/acknowledgment retained."
+    },
+    {
+      "file": "frame-000013.jpg",
+      "reason": "Visually reviewed middle wait and repeated view omitted; first question and final complete identifying assertion/acknowledgment retained."
+    },
+    {
+      "file": "frame-000014.jpg",
+      "reason": "Visually reviewed middle wait and repeated view omitted; first question and final complete identifying assertion/acknowledgment retained."
+    },
+    {
+      "file": "frame-000015.jpg",
+      "reason": "Visually reviewed middle wait and repeated view omitted; first question and final complete identifying assertion/acknowledgment retained."
+    },
+    {
+      "file": "frame-000016.jpg",
+      "reason": "Visually reviewed middle wait and repeated view omitted; first question and final complete identifying assertion/acknowledgment retained."
+    },
+    {
+      "file": "frame-000017.jpg",
+      "reason": "Visually reviewed middle wait and repeated view omitted; first question and final complete identifying assertion/acknowledgment retained."
+    },
+    {
+      "file": "frame-000018.jpg",
+      "reason": "Visually reviewed middle wait and repeated view omitted; first question and final complete identifying assertion/acknowledgment retained."
+    },
+    {
+      "file": "frame-000019.jpg",
+      "reason": "Visually reviewed middle wait and repeated view omitted; first question and final complete identifying assertion/acknowledgment retained."
+    },
+    {
+      "file": "frame-000020.jpg",
+      "reason": "Visually reviewed middle wait and repeated view omitted; first question and final complete identifying assertion/acknowledgment retained."
+    },
+    {
+      "file": "frame-000021.jpg",
+      "reason": "Visually reviewed middle wait and repeated view omitted; first question and final complete identifying assertion/acknowledgment retained."
+    },
+    {
+      "file": "frame-000022.jpg",
+      "reason": "Visually reviewed middle wait and repeated view omitted; first question and final complete identifying assertion/acknowledgment retained."
+    },
+    {
+      "file": "frame-000023.jpg",
+      "reason": "Visually reviewed middle wait and repeated view omitted; first question and final complete identifying assertion/acknowledgment retained."
+    },
+    {
+      "file": "frame-000024.jpg",
+      "reason": "Visually reviewed middle wait and repeated view omitted; first question and final complete identifying assertion/acknowledgment retained."
+    },
+    {
+      "file": "frame-000025.jpg",
+      "reason": "Visually reviewed middle wait and repeated view omitted; first question and final complete identifying assertion/acknowledgment retained."
+    },
+    {
+      "file": "frame-000026.jpg",
+      "reason": "Visually reviewed middle wait and repeated view omitted; first question and final complete identifying assertion/acknowledgment retained."
+    },
+    {
+      "file": "frame-000027.jpg",
+      "reason": "Visually reviewed middle wait and repeated view omitted; first question and final complete identifying assertion/acknowledgment retained."
+    },
+    {
+      "file": "frame-000028.jpg",
+      "reason": "Visually reviewed middle wait and repeated view omitted; first question and final complete identifying assertion/acknowledgment retained."
+    },
+    {
+      "file": "frame-000029.jpg",
+      "reason": "Visually reviewed middle wait and repeated view omitted; first question and final complete identifying assertion/acknowledgment retained."
+    },
+    {
+      "file": "frame-000030.jpg",
+      "reason": "Visually reviewed middle wait and repeated view omitted; first question and final complete identifying assertion/acknowledgment retained."
+    },
+    {
+      "file": "frame-000031.jpg",
+      "reason": "Visually reviewed middle wait and repeated view omitted; first question and final complete identifying assertion/acknowledgment retained."
+    },
+    {
+      "file": "frame-000032.jpg",
+      "reason": "Visually reviewed middle wait and repeated view omitted; first question and final complete identifying assertion/acknowledgment retained."
+    },
+    {
+      "file": "frame-000033.jpg",
+      "reason": "Visually reviewed middle wait and repeated view omitted; first question and final complete identifying assertion/acknowledgment retained."
+    },
+    {
+      "file": "frame-000034.jpg",
+      "reason": "Visually reviewed middle wait and repeated view omitted; first question and final complete identifying assertion/acknowledgment retained."
+    },
+    {
+      "file": "frame-000035.jpg",
+      "reason": "Visually reviewed middle wait and repeated view omitted; first question and final complete identifying assertion/acknowledgment retained."
+    },
+    {
+      "file": "frame-000036.jpg",
+      "reason": "Visually reviewed middle wait and repeated view omitted; first question and final complete identifying assertion/acknowledgment retained."
+    },
+    {
+      "file": "frame-000037.jpg",
+      "reason": "Visually reviewed middle wait and repeated view omitted; first question and final complete identifying assertion/acknowledgment retained."
+    },
+    {
+      "file": "frame-000038.jpg",
+      "reason": "Visually reviewed middle wait and repeated view omitted; first question and final complete identifying assertion/acknowledgment retained."
+    },
+    {
+      "file": "frame-000039.jpg",
+      "reason": "Visually reviewed middle wait and repeated view omitted; first question and final complete identifying assertion/acknowledgment retained."
+    },
+    {
+      "file": "frame-000040.jpg",
+      "reason": "Visually reviewed middle wait and repeated view omitted; first question and final complete identifying assertion/acknowledgment retained."
+    },
+    {
+      "file": "frame-000041.jpg",
+      "reason": "Visually reviewed middle wait and repeated view omitted; first question and final complete identifying assertion/acknowledgment retained."
+    },
+    {
+      "file": "frame-000042.jpg",
+      "reason": "Visually reviewed middle wait and repeated view omitted; first question and final complete identifying assertion/acknowledgment retained."
+    },
+    {
+      "file": "frame-000043.jpg",
+      "reason": "Visually reviewed middle wait and repeated view omitted; first question and final complete identifying assertion/acknowledgment retained."
+    },
+    {
+      "file": "frame-000044.jpg",
+      "reason": "Visually reviewed middle wait and repeated view omitted; first question and final complete identifying assertion/acknowledgment retained."
+    },
+    {
+      "file": "frame-000045.jpg",
+      "reason": "Visually reviewed middle wait and repeated view omitted; first question and final complete identifying assertion/acknowledgment retained."
+    },
+    {
+      "file": "frame-000046.jpg",
+      "reason": "Visually reviewed middle wait and repeated view omitted; first question and final complete identifying assertion/acknowledgment retained."
+    },
+    {
+      "file": "frame-000047.jpg",
+      "reason": "Visually reviewed middle wait and repeated view omitted; first question and final complete identifying assertion/acknowledgment retained."
+    },
+    {
+      "file": "frame-000048.jpg",
+      "reason": "Visually reviewed middle wait and repeated view omitted; first question and final complete identifying assertion/acknowledgment retained."
+    },
+    {
+      "file": "frame-000049.jpg",
+      "reason": "Visually reviewed middle wait and repeated view omitted; first question and final complete identifying assertion/acknowledgment retained."
+    },
+    {
+      "file": "frame-000050.jpg",
+      "reason": "Visually reviewed middle wait and repeated view omitted; first question and final complete identifying assertion/acknowledgment retained."
+    },
+    {
+      "file": "frame-000051.jpg",
+      "reason": "Visually reviewed middle wait and repeated view omitted; first question and final complete identifying assertion/acknowledgment retained."
+    },
+    {
+      "file": "frame-000052.jpg",
+      "reason": "Visually reviewed middle wait and repeated view omitted; first question and final complete identifying assertion/acknowledgment retained."
+    }
+  ],
+  "source_frames": [
+    {
+      "file": "frame-000000.jpg",
+      "at": 1794073485754,
+      "sha256": "a7855d063f79f62f57ab0202e446824319a6d18d48120eaeb45f85869097de4b"
+    },
+    {
+      "file": "frame-000001.jpg",
+      "at": 1794073486271,
+      "sha256": "a7855d063f79f62f57ab0202e446824319a6d18d48120eaeb45f85869097de4b"
+    },
+    {
+      "file": "frame-000002.jpg",
+      "at": 1794073486790,
+      "sha256": "a7855d063f79f62f57ab0202e446824319a6d18d48120eaeb45f85869097de4b"
+    },
+    {
+      "file": "frame-000003.jpg",
+      "at": 1794073487309,
+      "sha256": "a7855d063f79f62f57ab0202e446824319a6d18d48120eaeb45f85869097de4b"
+    },
+    {
+      "file": "frame-000004.jpg",
+      "at": 1794073487830,
+      "sha256": "a7855d063f79f62f57ab0202e446824319a6d18d48120eaeb45f85869097de4b"
+    },
+    {
+      "file": "frame-000005.jpg",
+      "at": 1794073488349,
+      "sha256": "a7855d063f79f62f57ab0202e446824319a6d18d48120eaeb45f85869097de4b"
+    },
+    {
+      "file": "frame-000006.jpg",
+      "at": 1794073488868,
+      "sha256": "a7855d063f79f62f57ab0202e446824319a6d18d48120eaeb45f85869097de4b"
+    },
+    {
+      "file": "frame-000007.jpg",
+      "at": 1794073489392,
+      "sha256": "a7855d063f79f62f57ab0202e446824319a6d18d48120eaeb45f85869097de4b"
+    },
+    {
+      "file": "frame-000008.jpg",
+      "at": 1794073489913,
+      "sha256": "a7855d063f79f62f57ab0202e446824319a6d18d48120eaeb45f85869097de4b"
+    },
+    {
+      "file": "frame-000009.jpg",
+      "at": 1794073490433,
+      "sha256": "a7855d063f79f62f57ab0202e446824319a6d18d48120eaeb45f85869097de4b"
+    },
+    {
+      "file": "frame-000010.jpg",
+      "at": 1794073490946,
+      "sha256": "a7855d063f79f62f57ab0202e446824319a6d18d48120eaeb45f85869097de4b"
+    },
+    {
+      "file": "frame-000011.jpg",
+      "at": 1794073491464,
+      "sha256": "a7855d063f79f62f57ab0202e446824319a6d18d48120eaeb45f85869097de4b"
+    },
+    {
+      "file": "frame-000012.jpg",
+      "at": 1794073502768,
+      "sha256": "a7855d063f79f62f57ab0202e446824319a6d18d48120eaeb45f85869097de4b"
+    },
+    {
+      "file": "frame-000013.jpg",
+      "at": 1794073503293,
+      "sha256": "a7855d063f79f62f57ab0202e446824319a6d18d48120eaeb45f85869097de4b"
+    },
+    {
+      "file": "frame-000014.jpg",
+      "at": 1794073503817,
+      "sha256": "a7855d063f79f62f57ab0202e446824319a6d18d48120eaeb45f85869097de4b"
+    },
+    {
+      "file": "frame-000015.jpg",
+      "at": 1794073504347,
+      "sha256": "a7855d063f79f62f57ab0202e446824319a6d18d48120eaeb45f85869097de4b"
+    },
+    {
+      "file": "frame-000016.jpg",
+      "at": 1794073504877,
+      "sha256": "a7855d063f79f62f57ab0202e446824319a6d18d48120eaeb45f85869097de4b"
+    },
+    {
+      "file": "frame-000017.jpg",
+      "at": 1794073505412,
+      "sha256": "a7855d063f79f62f57ab0202e446824319a6d18d48120eaeb45f85869097de4b"
+    },
+    {
+      "file": "frame-000018.jpg",
+      "at": 1794073505942,
+      "sha256": "a7855d063f79f62f57ab0202e446824319a6d18d48120eaeb45f85869097de4b"
+    },
+    {
+      "file": "frame-000019.jpg",
+      "at": 1794073506476,
+      "sha256": "a7855d063f79f62f57ab0202e446824319a6d18d48120eaeb45f85869097de4b"
+    },
+    {
+      "file": "frame-000020.jpg",
+      "at": 1794073506996,
+      "sha256": "a7855d063f79f62f57ab0202e446824319a6d18d48120eaeb45f85869097de4b"
+    },
+    {
+      "file": "frame-000021.jpg",
+      "at": 1794073507529,
+      "sha256": "a7855d063f79f62f57ab0202e446824319a6d18d48120eaeb45f85869097de4b"
+    },
+    {
+      "file": "frame-000022.jpg",
+      "at": 1794073508054,
+      "sha256": "5fe3cadd1252f212ed19cfee0249ea3927a97acf87286f2ff7975ce86be5a88b"
+    },
+    {
+      "file": "frame-000023.jpg",
+      "at": 1794073508589,
+      "sha256": "f202560930f0cac884ae4aee208a7ea8ddaa125096fc3418559abf42908d87ad"
+    },
+    {
+      "file": "frame-000024.jpg",
+      "at": 1794073509115,
+      "sha256": "22fdf55dff67690e7e4c49caa11986ec29fed0a478acbd0b0359138bd91efba9"
+    },
+    {
+      "file": "frame-000025.jpg",
+      "at": 1794073509647,
+      "sha256": "22fdf55dff67690e7e4c49caa11986ec29fed0a478acbd0b0359138bd91efba9"
+    },
+    {
+      "file": "frame-000026.jpg",
+      "at": 1794073510176,
+      "sha256": "22fdf55dff67690e7e4c49caa11986ec29fed0a478acbd0b0359138bd91efba9"
+    },
+    {
+      "file": "frame-000027.jpg",
+      "at": 1794073510708,
+      "sha256": "c0f7650e56c0f61c3239f8466e39440f9910675253efa4e293e0f65503ab79b1"
+    },
+    {
+      "file": "frame-000028.jpg",
+      "at": 1794073511232,
+      "sha256": "c0f7650e56c0f61c3239f8466e39440f9910675253efa4e293e0f65503ab79b1"
+    },
+    {
+      "file": "frame-000029.jpg",
+      "at": 1794073511763,
+      "sha256": "c0f7650e56c0f61c3239f8466e39440f9910675253efa4e293e0f65503ab79b1"
+    },
+    {
+      "file": "frame-000030.jpg",
+      "at": 1794073512296,
+      "sha256": "c0f7650e56c0f61c3239f8466e39440f9910675253efa4e293e0f65503ab79b1"
+    },
+    {
+      "file": "frame-000031.jpg",
+      "at": 1794073512817,
+      "sha256": "c0f7650e56c0f61c3239f8466e39440f9910675253efa4e293e0f65503ab79b1"
+    },
+    {
+      "file": "frame-000032.jpg",
+      "at": 1794073513341,
+      "sha256": "c0f7650e56c0f61c3239f8466e39440f9910675253efa4e293e0f65503ab79b1"
+    },
+    {
+      "file": "frame-000033.jpg",
+      "at": 1794073513868,
+      "sha256": "c0f7650e56c0f61c3239f8466e39440f9910675253efa4e293e0f65503ab79b1"
+    },
+    {
+      "file": "frame-000034.jpg",
+      "at": 1794073514405,
+      "sha256": "c0f7650e56c0f61c3239f8466e39440f9910675253efa4e293e0f65503ab79b1"
+    },
+    {
+      "file": "frame-000035.jpg",
+      "at": 1794073514939,
+      "sha256": "c0f7650e56c0f61c3239f8466e39440f9910675253efa4e293e0f65503ab79b1"
+    },
+    {
+      "file": "frame-000036.jpg",
+      "at": 1794073515469,
+      "sha256": "c0f7650e56c0f61c3239f8466e39440f9910675253efa4e293e0f65503ab79b1"
+    },
+    {
+      "file": "frame-000037.jpg",
+      "at": 1794073515994,
+      "sha256": "c0f7650e56c0f61c3239f8466e39440f9910675253efa4e293e0f65503ab79b1"
+    },
+    {
+      "file": "frame-000038.jpg",
+      "at": 1794073516519,
+      "sha256": "c0f7650e56c0f61c3239f8466e39440f9910675253efa4e293e0f65503ab79b1"
+    },
+    {
+      "file": "frame-000039.jpg",
+      "at": 1794073517041,
+      "sha256": "c0f7650e56c0f61c3239f8466e39440f9910675253efa4e293e0f65503ab79b1"
+    },
+    {
+      "file": "frame-000040.jpg",
+      "at": 1794073517569,
+      "sha256": "c0f7650e56c0f61c3239f8466e39440f9910675253efa4e293e0f65503ab79b1"
+    },
+    {
+      "file": "frame-000041.jpg",
+      "at": 1794073518093,
+      "sha256": "c0f7650e56c0f61c3239f8466e39440f9910675253efa4e293e0f65503ab79b1"
+    },
+    {
+      "file": "frame-000042.jpg",
+      "at": 1794073518615,
+      "sha256": "c0f7650e56c0f61c3239f8466e39440f9910675253efa4e293e0f65503ab79b1"
+    },
+    {
+      "file": "frame-000043.jpg",
+      "at": 1794073519138,
+      "sha256": "c0f7650e56c0f61c3239f8466e39440f9910675253efa4e293e0f65503ab79b1"
+    },
+    {
+      "file": "frame-000044.jpg",
+      "at": 1794073519667,
+      "sha256": "c0f7650e56c0f61c3239f8466e39440f9910675253efa4e293e0f65503ab79b1"
+    },
+    {
+      "file": "frame-000045.jpg",
+      "at": 1794073520191,
+      "sha256": "c0f7650e56c0f61c3239f8466e39440f9910675253efa4e293e0f65503ab79b1"
+    },
+    {
+      "file": "frame-000046.jpg",
+      "at": 1794073520718,
+      "sha256": "c0f7650e56c0f61c3239f8466e39440f9910675253efa4e293e0f65503ab79b1"
+    },
+    {
+      "file": "frame-000047.jpg",
+      "at": 1794073521243,
+      "sha256": "c0f7650e56c0f61c3239f8466e39440f9910675253efa4e293e0f65503ab79b1"
+    },
+    {
+      "file": "frame-000048.jpg",
+      "at": 1794073521783,
+      "sha256": "c0f7650e56c0f61c3239f8466e39440f9910675253efa4e293e0f65503ab79b1"
+    },
+    {
+      "file": "frame-000049.jpg",
+      "at": 1794073522305,
+      "sha256": "c0f7650e56c0f61c3239f8466e39440f9910675253efa4e293e0f65503ab79b1"
+    },
+    {
+      "file": "frame-000050.jpg",
+      "at": 1794073522836,
+      "sha256": "c0f7650e56c0f61c3239f8466e39440f9910675253efa4e293e0f65503ab79b1"
+    },
+    {
+      "file": "frame-000051.jpg",
+      "at": 1794073523356,
+      "sha256": "c0f7650e56c0f61c3239f8466e39440f9910675253efa4e293e0f65503ab79b1"
+    },
+    {
+      "file": "frame-000052.jpg",
+      "at": 1794073527962,
+      "sha256": "c0f7650e56c0f61c3239f8466e39440f9910675253efa4e293e0f65503ab79b1"
+    },
+    {
+      "file": "frame-000053.jpg",
+      "at": 1794073560417,
+      "sha256": "c0f7650e56c0f61c3239f8466e39440f9910675253efa4e293e0f65503ab79b1"
+    },
+    {
+      "file": "frame-000054.jpg",
+      "at": 1794073560937,
+      "sha256": "c0f7650e56c0f61c3239f8466e39440f9910675253efa4e293e0f65503ab79b1"
+    },
+    {
+      "file": "frame-000055.jpg",
+      "at": 1794073561457,
+      "sha256": "c0f7650e56c0f61c3239f8466e39440f9910675253efa4e293e0f65503ab79b1"
+    },
+    {
+      "file": "frame-000056.jpg",
+      "at": 1794073561975,
+      "sha256": "c0f7650e56c0f61c3239f8466e39440f9910675253efa4e293e0f65503ab79b1"
+    },
+    {
+      "file": "frame-000057.jpg",
+      "at": 1794073562491,
+      "sha256": "c0f7650e56c0f61c3239f8466e39440f9910675253efa4e293e0f65503ab79b1"
+    },
+    {
+      "file": "frame-000058.jpg",
+      "at": 1794073563015,
+      "sha256": "c0f7650e56c0f61c3239f8466e39440f9910675253efa4e293e0f65503ab79b1"
+    },
+    {
+      "file": "frame-000059.jpg",
+      "at": 1794073563535,
+      "sha256": "c0f7650e56c0f61c3239f8466e39440f9910675253efa4e293e0f65503ab79b1"
+    },
+    {
+      "file": "frame-000060.jpg",
+      "at": 1794073564050,
+      "sha256": "c0f7650e56c0f61c3239f8466e39440f9910675253efa4e293e0f65503ab79b1"
+    },
+    {
+      "file": "frame-000061.jpg",
+      "at": 1794073564571,
+      "sha256": "c0f7650e56c0f61c3239f8466e39440f9910675253efa4e293e0f65503ab79b1"
+    },
+    {
+      "file": "frame-000062.jpg",
+      "at": 1794073565089,
+      "sha256": "c0f7650e56c0f61c3239f8466e39440f9910675253efa4e293e0f65503ab79b1"
+    },
+    {
+      "file": "frame-000063.jpg",
+      "at": 1794073565611,
+      "sha256": "c0f7650e56c0f61c3239f8466e39440f9910675253efa4e293e0f65503ab79b1"
+    },
+    {
+      "file": "frame-000064.jpg",
+      "at": 1794073566126,
+      "sha256": "c0f7650e56c0f61c3239f8466e39440f9910675253efa4e293e0f65503ab79b1"
+    },
+    {
+      "file": "frame-000065.jpg",
+      "at": 1794073566644,
+      "sha256": "c0f7650e56c0f61c3239f8466e39440f9910675253efa4e293e0f65503ab79b1"
+    },
+    {
+      "file": "frame-000066.jpg",
+      "at": 1794073567165,
+      "sha256": "c0f7650e56c0f61c3239f8466e39440f9910675253efa4e293e0f65503ab79b1"
+    },
+    {
+      "file": "frame-000067.jpg",
+      "at": 1794073567684,
+      "sha256": "c0f7650e56c0f61c3239f8466e39440f9910675253efa4e293e0f65503ab79b1"
+    },
+    {
+      "file": "frame-000068.jpg",
+      "at": 1794073568206,
+      "sha256": "c0f7650e56c0f61c3239f8466e39440f9910675253efa4e293e0f65503ab79b1"
+    }
+  ],
+  "timeline": [
+    {
+      "file": "frame-000000.jpg",
+      "source_at_ms": 1794073485754,
+      "output_start_seconds": 0.0,
+      "duration_seconds": 0.517,
+      "source_gap_seconds": 0.517,
+      "gap_compressed": false
+    },
+    {
+      "file": "frame-000001.jpg",
+      "source_at_ms": 1794073486271,
+      "output_start_seconds": 0.517,
+      "duration_seconds": 0.519,
+      "source_gap_seconds": 0.519,
+      "gap_compressed": false
+    },
+    {
+      "file": "frame-000002.jpg",
+      "source_at_ms": 1794073486790,
+      "output_start_seconds": 1.036,
+      "duration_seconds": 0.519,
+      "source_gap_seconds": 0.519,
+      "gap_compressed": false
+    },
+    {
+      "file": "frame-000003.jpg",
+      "source_at_ms": 1794073487309,
+      "output_start_seconds": 1.555,
+      "duration_seconds": 0.521,
+      "source_gap_seconds": 0.521,
+      "gap_compressed": false
+    },
+    {
+      "file": "frame-000004.jpg",
+      "source_at_ms": 1794073487830,
+      "output_start_seconds": 2.076,
+      "duration_seconds": 0.519,
+      "source_gap_seconds": 0.519,
+      "gap_compressed": false
+    },
+    {
+      "file": "frame-000005.jpg",
+      "source_at_ms": 1794073488349,
+      "output_start_seconds": 2.595,
+      "duration_seconds": 0.519,
+      "source_gap_seconds": 0.519,
+      "gap_compressed": false
+    },
+    {
+      "file": "frame-000006.jpg",
+      "source_at_ms": 1794073488868,
+      "output_start_seconds": 3.114,
+      "duration_seconds": 0.524,
+      "source_gap_seconds": 0.524,
+      "gap_compressed": false
+    },
+    {
+      "file": "frame-000007.jpg",
+      "source_at_ms": 1794073489392,
+      "output_start_seconds": 3.638,
+      "duration_seconds": 0.521,
+      "source_gap_seconds": 0.521,
+      "gap_compressed": false
+    },
+    {
+      "file": "frame-000008.jpg",
+      "source_at_ms": 1794073489913,
+      "output_start_seconds": 4.159,
+      "duration_seconds": 0.52,
+      "source_gap_seconds": 0.52,
+      "gap_compressed": false
+    },
+    {
+      "file": "frame-000009.jpg",
+      "source_at_ms": 1794073490433,
+      "output_start_seconds": 4.679,
+      "duration_seconds": 0.513,
+      "source_gap_seconds": 0.513,
+      "gap_compressed": false
+    },
+    {
+      "file": "frame-000010.jpg",
+      "source_at_ms": 1794073490946,
+      "output_start_seconds": 5.192,
+      "duration_seconds": 0.518,
+      "source_gap_seconds": 0.518,
+      "gap_compressed": false
+    },
+    {
+      "file": "frame-000011.jpg",
+      "source_at_ms": 1794073491464,
+      "output_start_seconds": 5.71,
+      "duration_seconds": 0.7,
+      "source_gap_seconds": 68.953,
+      "gap_compressed": true
+    },
+    {
+      "file": "frame-000053.jpg",
+      "source_at_ms": 1794073560417,
+      "output_start_seconds": 6.41,
+      "duration_seconds": 0.52,
+      "source_gap_seconds": 0.52,
+      "gap_compressed": false
+    },
+    {
+      "file": "frame-000054.jpg",
+      "source_at_ms": 1794073560937,
+      "output_start_seconds": 6.93,
+      "duration_seconds": 0.52,
+      "source_gap_seconds": 0.52,
+      "gap_compressed": false
+    },
+    {
+      "file": "frame-000055.jpg",
+      "source_at_ms": 1794073561457,
+      "output_start_seconds": 7.45,
+      "duration_seconds": 0.518,
+      "source_gap_seconds": 0.518,
+      "gap_compressed": false
+    },
+    {
+      "file": "frame-000056.jpg",
+      "source_at_ms": 1794073561975,
+      "output_start_seconds": 7.968,
+      "duration_seconds": 0.516,
+      "source_gap_seconds": 0.516,
+      "gap_compressed": false
+    },
+    {
+      "file": "frame-000057.jpg",
+      "source_at_ms": 1794073562491,
+      "output_start_seconds": 8.484,
+      "duration_seconds": 0.524,
+      "source_gap_seconds": 0.524,
+      "gap_compressed": false
+    },
+    {
+      "file": "frame-000058.jpg",
+      "source_at_ms": 1794073563015,
+      "output_start_seconds": 9.008,
+      "duration_seconds": 0.52,
+      "source_gap_seconds": 0.52,
+      "gap_compressed": false
+    },
+    {
+      "file": "frame-000059.jpg",
+      "source_at_ms": 1794073563535,
+      "output_start_seconds": 9.528,
+      "duration_seconds": 0.515,
+      "source_gap_seconds": 0.515,
+      "gap_compressed": false
+    },
+    {
+      "file": "frame-000060.jpg",
+      "source_at_ms": 1794073564050,
+      "output_start_seconds": 10.043,
+      "duration_seconds": 0.521,
+      "source_gap_seconds": 0.521,
+      "gap_compressed": false
+    },
+    {
+      "file": "frame-000061.jpg",
+      "source_at_ms": 1794073564571,
+      "output_start_seconds": 10.564,
+      "duration_seconds": 0.518,
+      "source_gap_seconds": 0.518,
+      "gap_compressed": false
+    },
+    {
+      "file": "frame-000062.jpg",
+      "source_at_ms": 1794073565089,
+      "output_start_seconds": 11.082,
+      "duration_seconds": 0.522,
+      "source_gap_seconds": 0.522,
+      "gap_compressed": false
+    },
+    {
+      "file": "frame-000063.jpg",
+      "source_at_ms": 1794073565611,
+      "output_start_seconds": 11.604,
+      "duration_seconds": 0.515,
+      "source_gap_seconds": 0.515,
+      "gap_compressed": false
+    },
+    {
+      "file": "frame-000064.jpg",
+      "source_at_ms": 1794073566126,
+      "output_start_seconds": 12.119,
+      "duration_seconds": 0.518,
+      "source_gap_seconds": 0.518,
+      "gap_compressed": false
+    },
+    {
+      "file": "frame-000065.jpg",
+      "source_at_ms": 1794073566644,
+      "output_start_seconds": 12.637,
+      "duration_seconds": 0.521,
+      "source_gap_seconds": 0.521,
+      "gap_compressed": false
+    },
+    {
+      "file": "frame-000066.jpg",
+      "source_at_ms": 1794073567165,
+      "output_start_seconds": 13.158,
+      "duration_seconds": 0.519,
+      "source_gap_seconds": 0.519,
+      "gap_compressed": false
+    },
+    {
+      "file": "frame-000067.jpg",
+      "source_at_ms": 1794073567684,
+      "output_start_seconds": 13.677,
+      "duration_seconds": 0.522,
+      "source_gap_seconds": 0.522,
+      "gap_compressed": false
+    },
+    {
+      "file": "frame-000068.jpg",
+      "source_at_ms": 1794073568206,
+      "output_start_seconds": 14.199,
+      "duration_seconds": 0.7,
+      "source_gap_seconds": null,
+      "gap_compressed": false
+    }
+  ]
+}

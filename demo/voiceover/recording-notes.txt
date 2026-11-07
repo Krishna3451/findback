@@ -1,0 +1,37 @@
+FINDBACK — ENGLISH VOICEOVER, ABOUT THREE MINUTES
+
+Read script-en.txt as one continuous recording, in the order written.
+Use a natural, conversational voice. Around 125–135 words per minute is a guide, not a stopwatch target.
+Leave roughly two seconds between the six paragraphs, and two seconds at the beginning and end.
+Do not read paragraph numbers, scene labels, or timing instructions aloud.
+WAV, M4A and MP3 are all suitable. A phone voice memo in a quiet room is enough.
+Keep the microphone a consistent distance away. Natural breaths are fine.
+If you stumble, pause, restart that sentence, and keep recording; the duplicate can be edited out.
+
+Send the audio file in the conversation after recording.
+Your actual delivery will determine the screen-recording durations and scene cuts.
+The next edit will use your voice, not synthetic narration. It will use actual Mattermost screens.
+
+THE NARRATIVE
+One item and one claimant, shown chronologically:
+1. Ava's public found-item post.
+2. Alex's claim as an actual reply under that exact post.
+3. Alex's private confirmation, non-leading question and identifying answer.
+4. Mira's private comparison and explicit approval.
+5. FindBack's private reservation and collection instructions.
+6. The connected workflow, ending on the approved collection message.
+
+STOP AT COLLECTION READY
+This cut ends at APPROVED / RESERVED with instructions delivered.
+It must not describe the item as returned, or show another claimant's return receipt.
+Staff handover and claimant receipt remain future steps, as the script says.
+
+FACTS AND DISCLOSURE
+The participants, item and scenario are fictional. Switch transport, AI calls, authorization and saved state run live.
+Use a brief on-screen disclosure or the visible demo-channel notice.
+Do not imply a real librarian or owner independently typed the scripted roleplay.
+No historical image search, daily-volume performance, or ownership accuracy is claimed.
+
+CURRENT STATUS
+The actual public found post and claim reply have been checked. Alex's case is still open, with no reservation.
+Further roleplay stages are prepared but have not been sent. Final recording and synchronization wait for your narration.

@@ -1,0 +1,14 @@
+{
+  "video": "FindBack-submission-demo.mp4",
+  "duration_seconds": 169.994854,
+  "video_decode": "passed",
+  "video_codec": "H264",
+  "audio_codec": "AAC",
+  "audio_peak_dbfs": -0.4,
+  "subtitle_status": "passed; 29 timed cues",
+  "package_integrity": "passed",
+  "credential_scan": "passed",
+  "scene_clips": 8,
+  "sha256": "66e30022a0c0602c5b1fb8ccc687a609f62e347c496f88d20dbbf8b11abc75a5",
+  "submission_package": "FindBack-submission-pack.zip"
+}

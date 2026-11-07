@@ -1,0 +1,417 @@
+{
+  "schema": 1,
+  "created_at": "2026-11-07T17:44:52.247192+00:00",
+  "kind": "edited actual browser screen-captured walkthrough",
+  "disclosure": "Scenes navigated during the real scripted run; cuts and waiting gaps compressed. Fictional participants, objects and handovers. Not a continuous capture of every event. No generated UI, added graphics, text slides or narration.",
+  "source_manifest_sha256": "5945fd436f97268042748d46d69035103433cd4bac4d5d1bb20d4ea1ae8438da",
+  "source_frame_count": 28,
+  "retained_frame_count": 28,
+  "source_dimensions": [
+    649,
+    769
+  ],
+  "output_dimensions": [
+    650,
+    770
+  ],
+  "pixel_transform": "One black padding pixel on right/bottom if needed for H.264; original browser pixels are not rescaled or cropped. Lossy H.264 compression only.",
+  "timing_rule": {
+    "gap_threshold_seconds": 1000000000.0,
+    "long_gap_output_seconds": 0.7,
+    "final_frame_seconds": 0.7,
+    "fps": 24,
+    "other_intervals": "Original timestamp cadence, quantized to output frames."
+  },
+  "source_elapsed_seconds": 49.788,
+  "edited_duration_seconds": 50.5,
+  "video_file": "capture.mp4",
+  "video_sha256": "81e80a4f311533b2a14694b3019bee8ac4a0354bf84b628f5d58244fad2a4b76",
+  "ffprobe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "width": 650,
+        "height": 770,
+        "pix_fmt": "yuvj420p",
+        "avg_frame_rate": "24/1"
+      }
+    ],
+    "format": {
+      "duration": "50.500000",
+      "size": "457568"
+    }
+  },
+  "still_file": "mattermost-chat.jpg",
+  "still_sha256": "1209aedacfa5d22974a180f45c89bac9707884180d3175f2e636a4c438c0f879",
+  "omitted_frames": [],
+  "source_frames": [
+    {
+      "file": "frame-000000.jpg",
+      "at": 1794073404916,
+      "sha256": "48db9c3514f5950a0f05b0f07d23df473bd29f225c5d309ada5c63d59631af23"
+    },
+    {
+      "file": "frame-000001.jpg",
+      "at": 1794073405432,
+      "sha256": "8ac0fde218018ee8fb76765c0c437a87a0459bdcafb5582dfc50762f573526a0"
+    },
+    {
+      "file": "frame-000002.jpg",
+      "at": 1794073405950,
+      "sha256": "48db9c3514f5950a0f05b0f07d23df473bd29f225c5d309ada5c63d59631af23"
+    },
+    {
+      "file": "frame-000003.jpg",
+      "at": 1794073406473,
+      "sha256": "8ac0fde218018ee8fb76765c0c437a87a0459bdcafb5582dfc50762f573526a0"
+    },
+    {
+      "file": "frame-000004.jpg",
+      "at": 1794073406991,
+      "sha256": "48db9c3514f5950a0f05b0f07d23df473bd29f225c5d309ada5c63d59631af23"
+    },
+    {
+      "file": "frame-000005.jpg",
+      "at": 1794073407511,
+      "sha256": "8ac0fde218018ee8fb76765c0c437a87a0459bdcafb5582dfc50762f573526a0"
+    },
+    {
+      "file": "frame-000006.jpg",
+      "at": 1794073408032,
+      "sha256": "48db9c3514f5950a0f05b0f07d23df473bd29f225c5d309ada5c63d59631af23"
+    },
+    {
+      "file": "frame-000007.jpg",
+      "at": 1794073408551,
+      "sha256": "8ac0fde218018ee8fb76765c0c437a87a0459bdcafb5582dfc50762f573526a0"
+    },
+    {
+      "file": "frame-000008.jpg",
+      "at": 1794073409074,
+      "sha256": "48db9c3514f5950a0f05b0f07d23df473bd29f225c5d309ada5c63d59631af23"
+    },
+    {
+      "file": "frame-000009.jpg",
+      "at": 1794073409594,
+      "sha256": "8ac0fde218018ee8fb76765c0c437a87a0459bdcafb5582dfc50762f573526a0"
+    },
+    {
+      "file": "frame-000010.jpg",
+      "at": 1794073410114,
+      "sha256": "48db9c3514f5950a0f05b0f07d23df473bd29f225c5d309ada5c63d59631af23"
+    },
+    {
+      "file": "frame-000011.jpg",
+      "at": 1794073410635,
+      "sha256": "8ac0fde218018ee8fb76765c0c437a87a0459bdcafb5582dfc50762f573526a0"
+    },
+    {
+      "file": "frame-000012.jpg",
+      "at": 1794073446907,
+      "sha256": "1209aedacfa5d22974a180f45c89bac9707884180d3175f2e636a4c438c0f879"
+    },
+    {
+      "file": "frame-000013.jpg",
+      "at": 1794073447427,
+      "sha256": "1209aedacfa5d22974a180f45c89bac9707884180d3175f2e636a4c438c0f879"
+    },
+    {
+      "file": "frame-000014.jpg",
+      "at": 1794073447947,
+      "sha256": "1209aedacfa5d22974a180f45c89bac9707884180d3175f2e636a4c438c0f879"
+    },
+    {
+      "file": "frame-000015.jpg",
+      "at": 1794073448467,
+      "sha256": "1209aedacfa5d22974a180f45c89bac9707884180d3175f2e636a4c438c0f879"
+    },
+    {
+      "file": "frame-000016.jpg",
+      "at": 1794073448989,
+      "sha256": "1209aedacfa5d22974a180f45c89bac9707884180d3175f2e636a4c438c0f879"
+    },
+    {
+      "file": "frame-000017.jpg",
+      "at": 1794073449510,
+      "sha256": "1209aedacfa5d22974a180f45c89bac9707884180d3175f2e636a4c438c0f879"
+    },
+    {
+      "file": "frame-000018.jpg",
+      "at": 1794073450030,
+      "sha256": "1209aedacfa5d22974a180f45c89bac9707884180d3175f2e636a4c438c0f879"
+    },
+    {
+      "file": "frame-000019.jpg",
+      "at": 1794073450548,
+      "sha256": "1209aedacfa5d22974a180f45c89bac9707884180d3175f2e636a4c438c0f879"
+    },
+    {
+      "file": "frame-000020.jpg",
+      "at": 1794073451071,
+      "sha256": "1209aedacfa5d22974a180f45c89bac9707884180d3175f2e636a4c438c0f879"
+    },
+    {
+      "file": "frame-000021.jpg",
+      "at": 1794073451589,
+      "sha256": "1209aedacfa5d22974a180f45c89bac9707884180d3175f2e636a4c438c0f879"
+    },
+    {
+      "file": "frame-000022.jpg",
+      "at": 1794073452107,
+      "sha256": "1209aedacfa5d22974a180f45c89bac9707884180d3175f2e636a4c438c0f879"
+    },
+    {
+      "file": "frame-000023.jpg",
+      "at": 1794073452627,
+      "sha256": "1209aedacfa5d22974a180f45c89bac9707884180d3175f2e636a4c438c0f879"
+    },
+    {
+      "file": "frame-000024.jpg",
+      "at": 1794073453150,
+      "sha256": "1209aedacfa5d22974a180f45c89bac9707884180d3175f2e636a4c438c0f879"
+    },
+    {
+      "file": "frame-000025.jpg",
+      "at": 1794073453668,
+      "sha256": "1209aedacfa5d22974a180f45c89bac9707884180d3175f2e636a4c438c0f879"
+    },
+    {
+      "file": "frame-000026.jpg",
+      "at": 1794073454185,
+      "sha256": "1209aedacfa5d22974a180f45c89bac9707884180d3175f2e636a4c438c0f879"
+    },
+    {
+      "file": "frame-000027.jpg",
+      "at": 1794073454704,
+      "sha256": "1209aedacfa5d22974a180f45c89bac9707884180d3175f2e636a4c438c0f879"
+    }
+  ],
+  "timeline": [
+    {
+      "file": "frame-000000.jpg",
+      "source_at_ms": 1794073404916,
+      "output_start_seconds": 0.0,
+      "duration_seconds": 0.516,
+      "source_gap_seconds": 0.516,
+      "gap_compressed": false
+    },
+    {
+      "file": "frame-000001.jpg",
+      "source_at_ms": 1794073405432,
+      "output_start_seconds": 0.516,
+      "duration_seconds": 0.518,
+      "source_gap_seconds": 0.518,
+      "gap_compressed": false
+    },
+    {
+      "file": "frame-000002.jpg",
+      "source_at_ms": 1794073405950,
+      "output_start_seconds": 1.034,
+      "duration_seconds": 0.523,
+      "source_gap_seconds": 0.523,
+      "gap_compressed": false
+    },
+    {
+      "file": "frame-000003.jpg",
+      "source_at_ms": 1794073406473,
+      "output_start_seconds": 1.557,
+      "duration_seconds": 0.518,
+      "source_gap_seconds": 0.518,
+      "gap_compressed": false
+    },
+    {
+      "file": "frame-000004.jpg",
+      "source_at_ms": 1794073406991,
+      "output_start_seconds": 2.075,
+      "duration_seconds": 0.52,
+      "source_gap_seconds": 0.52,
+      "gap_compressed": false
+    },
+    {
+      "file": "frame-000005.jpg",
+      "source_at_ms": 1794073407511,
+      "output_start_seconds": 2.595,
+      "duration_seconds": 0.521,
+      "source_gap_seconds": 0.521,
+      "gap_compressed": false
+    },
+    {
+      "file": "frame-000006.jpg",
+      "source_at_ms": 1794073408032,
+      "output_start_seconds": 3.116,
+      "duration_seconds": 0.519,
+      "source_gap_seconds": 0.519,
+      "gap_compressed": false
+    },
+    {
+      "file": "frame-000007.jpg",
+      "source_at_ms": 1794073408551,
+      "output_start_seconds": 3.635,
+      "duration_seconds": 0.523,
+      "source_gap_seconds": 0.523,
+      "gap_compressed": false
+    },
+    {
+      "file": "frame-000008.jpg",
+      "source_at_ms": 1794073409074,
+      "output_start_seconds": 4.158,
+      "duration_seconds": 0.52,
+      "source_gap_seconds": 0.52,
+      "gap_compressed": false
+    },
+    {
+      "file": "frame-000009.jpg",
+      "source_at_ms": 1794073409594,
+      "output_start_seconds": 4.678,
+      "duration_seconds": 0.52,
+      "source_gap_seconds": 0.52,
+      "gap_compressed": false
+    },
+    {
+      "file": "frame-000010.jpg",
+      "source_at_ms": 1794073410114,
+      "output_start_seconds": 5.198,
+      "duration_seconds": 0.521,
+      "source_gap_seconds": 0.521,
+      "gap_compressed": false
+    },
+    {
+      "file": "frame-000011.jpg",
+      "source_at_ms": 1794073410635,
+      "output_start_seconds": 5.719,
+      "duration_seconds": 36.272,
+      "source_gap_seconds": 36.272,
+      "gap_compressed": false
+    },
+    {
+      "file": "frame-000012.jpg",
+      "source_at_ms": 1794073446907,
+      "output_start_seconds": 41.991,
+      "duration_seconds": 0.52,
+      "source_gap_seconds": 0.52,
+      "gap_compressed": false
+    },
+    {
+      "file": "frame-000013.jpg",
+      "source_at_ms": 1794073447427,
+      "output_start_seconds": 42.511,
+      "duration_seconds": 0.52,
+      "source_gap_seconds": 0.52,
+      "gap_compressed": false
+    },
+    {
+      "file": "frame-000014.jpg",
+      "source_at_ms": 1794073447947,
+      "output_start_seconds": 43.031,
+      "duration_seconds": 0.52,
+      "source_gap_seconds": 0.52,
+      "gap_compressed": false
+    },
+    {
+      "file": "frame-000015.jpg",
+      "source_at_ms": 1794073448467,
+      "output_start_seconds": 43.551,
+      "duration_seconds": 0.522,
+      "source_gap_seconds": 0.522,
+      "gap_compressed": false
+    },
+    {
+      "file": "frame-000016.jpg",
+      "source_at_ms": 1794073448989,
+      "output_start_seconds": 44.073,
+      "duration_seconds": 0.521,
+      "source_gap_seconds": 0.521,
+      "gap_compressed": false
+    },
+    {
+      "file": "frame-000017.jpg",
+      "source_at_ms": 1794073449510,
+      "output_start_seconds": 44.594,
+      "duration_seconds": 0.52,
+      "source_gap_seconds": 0.52,
+      "gap_compressed": false
+    },
+    {
+      "file": "frame-000018.jpg",
+      "source_at_ms": 1794073450030,
+      "output_start_seconds": 45.114,
+      "duration_seconds": 0.518,
+      "source_gap_seconds": 0.518,
+      "gap_compressed": false
+    },
+    {
+      "file": "frame-000019.jpg",
+      "source_at_ms": 1794073450548,
+      "output_start_seconds": 45.632,
+      "duration_seconds": 0.523,
+      "source_gap_seconds": 0.523,
+      "gap_compressed": false
+    },
+    {
+      "file": "frame-000020.jpg",
+      "source_at_ms": 1794073451071,
+      "output_start_seconds": 46.155,
+      "duration_seconds": 0.518,
+      "source_gap_seconds": 0.518,
+      "gap_compressed": false
+    },
+    {
+      "file": "frame-000021.jpg",
+      "source_at_ms": 1794073451589,
+      "output_start_seconds": 46.673,
+      "duration_seconds": 0.518,
+      "source_gap_seconds": 0.518,
+      "gap_compressed": false
+    },
+    {
+      "file": "frame-000022.jpg",
+      "source_at_ms": 1794073452107,
+      "output_start_seconds": 47.191,
+      "duration_seconds": 0.52,
+      "source_gap_seconds": 0.52,
+      "gap_compressed": false
+    },
+    {
+      "file": "frame-000023.jpg",
+      "source_at_ms": 1794073452627,
+      "output_start_seconds": 47.711,
+      "duration_seconds": 0.523,
+      "source_gap_seconds": 0.523,
+      "gap_compressed": false
+    },
+    {
+      "file": "frame-000024.jpg",
+      "source_at_ms": 1794073453150,
+      "output_start_seconds": 48.234,
+      "duration_seconds": 0.518,
+      "source_gap_seconds": 0.518,
+      "gap_compressed": false
+    },
+    {
+      "file": "frame-000025.jpg",
+      "source_at_ms": 1794073453668,
+      "output_start_seconds": 48.752,
+      "duration_seconds": 0.517,
+      "source_gap_seconds": 0.517,
+      "gap_compressed": false
+    },
+    {
+      "file": "frame-000026.jpg",
+      "source_at_ms": 1794073454185,
+      "output_start_seconds": 49.269,
+      "duration_seconds": 0.519,
+      "source_gap_seconds": 0.519,
+      "gap_compressed": false
+    },
+    {
+      "file": "frame-000027.jpg",
+      "source_at_ms": 1794073454704,
+      "output_start_seconds": 49.788,
+      "duration_seconds": 0.7,
+      "source_gap_seconds": null,
+      "gap_compressed": false
+    }
+  ]
+}

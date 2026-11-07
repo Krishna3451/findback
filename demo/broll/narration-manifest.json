@@ -1,0 +1,274 @@
+{
+  "provider": "ElevenLabs",
+  "model_id": "eleven_v3",
+  "voice_name": "Sarah — Mature, Reassuring, Confident",
+  "voice_id": "EXAVITQu4vr4xnSDxMaL",
+  "ai_generated_narration": true,
+  "script_sha256": "77c8081451f47d9bfdf037fa69c761f6224bd89a906a7df091e0ff1885c09838",
+  "sample_rate_hz": 48000,
+  "channels": 1,
+  "official_api": "https://api.elevenlabs.io",
+  "chapters": [
+    {
+      "chapter": 1,
+      "label": "The lost case",
+      "text": "Alex has lost his headphone case in the library, and he’s already late for his bus. Somewhere nearby, Ava finds a case and wants to help. Getting it back should be simple.",
+      "direction": "[warm]",
+      "mp3_path": "/Users/krishna/Documents/Switch/findback/app/demo/broll/chapter-01.mp3",
+      "wav_path": "/Users/krishna/Documents/Switch/findback/app/demo/broll/chapter-01.wav",
+      "alignment_path": "/Users/krishna/Documents/Switch/findback/app/demo/broll/chapter-01.alignment.json",
+      "duration_seconds": 10.56,
+      "sentences": [
+        {
+          "start": 0.32,
+          "end": 4.8,
+          "text": "Alex has lost his headphone case in the library, and he’s already late for his bus."
+        },
+        {
+          "start": 4.88,
+          "end": 8.72,
+          "text": "Somewhere nearby, Ava finds a case and wants to help."
+        },
+        {
+          "start": 8.77,
+          "end": 10.56,
+          "text": "Getting it back should be simple."
+        }
+      ],
+      "start_seconds": 0,
+      "end_seconds": 10.56
+    },
+    {
+      "chapter": 2,
+      "label": "The usual group post",
+      "text": "The usual solution is a post in the campus group: what was found, and where. Alex spots it and replies beneath the message. Now the finder and the possible owner are connected. That’s a useful start.",
+      "direction": "",
+      "mp3_path": "/Users/krishna/Documents/Switch/findback/app/demo/broll/chapter-02.mp3",
+      "wav_path": "/Users/krishna/Documents/Switch/findback/app/demo/broll/chapter-02.wav",
+      "alignment_path": "/Users/krishna/Documents/Switch/findback/app/demo/broll/chapter-02.alignment.json",
+      "duration_seconds": 12.8,
+      "sentences": [
+        {
+          "start": 0.0,
+          "end": 4.72,
+          "text": "The usual solution is a post in the campus group: what was found, and where."
+        },
+        {
+          "start": 4.896,
+          "end": 7.84,
+          "text": "Alex spots it and replies beneath the message."
+        },
+        {
+          "start": 8.02,
+          "end": 11.12,
+          "text": "Now the finder and the possible owner are connected."
+        },
+        {
+          "start": 11.232,
+          "end": 12.8,
+          "text": "That’s a useful start."
+        }
+      ],
+      "start_seconds": 10.56,
+      "end_seconds": 23.36
+    },
+    {
+      "chapter": 3,
+      "label": "Where the handoff stalls",
+      "text": "But a black case is a common description. The post doesn’t tell the librarian whose it is. Someone still has to ask the right questions, check the answers, and arrange collection. That handoff is where a helpful conversation can get stuck.",
+      "direction": "[thoughtful]",
+      "mp3_path": "/Users/krishna/Documents/Switch/findback/app/demo/broll/chapter-03.mp3",
+      "wav_path": "/Users/krishna/Documents/Switch/findback/app/demo/broll/chapter-03.wav",
+      "alignment_path": "/Users/krishna/Documents/Switch/findback/app/demo/broll/chapter-03.alignment.json",
+      "duration_seconds": 15.52,
+      "sentences": [
+        {
+          "start": 0.136,
+          "end": 2.32,
+          "text": "But a black case is a common description."
+        },
+        {
+          "start": 2.52,
+          "end": 5.84,
+          "text": "The post doesn’t tell the librarian whose it is."
+        },
+        {
+          "start": 5.92,
+          "end": 11.44,
+          "text": "Someone still has to ask the right questions, check the answers, and arrange collection."
+        },
+        {
+          "start": 11.584,
+          "end": 15.52,
+          "text": "That handoff is where a helpful conversation can get stuck."
+        }
+      ],
+      "start_seconds": 23.36,
+      "end_seconds": 38.879999999999995
+    },
+    {
+      "chapter": 4,
+      "label": "FindBack connects the next step",
+      "text": "FindBack carries that conversation forward. It connects the original post, the claimant’s private chat, and the librarian’s review—giving each person a clear next step while keeping the final decision with the librarian.",
+      "direction": "[confident]",
+      "mp3_path": "/Users/krishna/Documents/Switch/findback/app/demo/broll/chapter-04.mp3",
+      "wav_path": "/Users/krishna/Documents/Switch/findback/app/demo/broll/chapter-04.wav",
+      "alignment_path": "/Users/krishna/Documents/Switch/findback/app/demo/broll/chapter-04.alignment.json",
+      "duration_seconds": 13.84,
+      "sentences": [
+        {
+          "start": 0.269,
+          "end": 2.4,
+          "text": "FindBack carries that conversation forward."
+        },
+        {
+          "start": 2.56,
+          "end": 13.84,
+          "text": "It connects the original post, the claimant’s private chat, and the librarian’s review—giving each person a clear next step while keeping the final decision with the librarian."
+        }
+      ],
+      "start_seconds": 38.879999999999995,
+      "end_seconds": 52.72
+    },
+    {
+      "chapter": 5,
+      "label": "Alex gives private evidence",
+      "text": "FindBack continues in Alex’s private chat and asks him to confirm what he lost. Then it asks an open question about distinguishing marks or contents. The desk’s identifying answers stay private. After struggling to remember at first, Alex describes a red thread on the zipper and initials inside the case. His own description becomes the evidence the librarian can review.",
+      "direction": "[reassuring]",
+      "mp3_path": "/Users/krishna/Documents/Switch/findback/app/demo/broll/chapter-05.mp3",
+      "wav_path": "/Users/krishna/Documents/Switch/findback/app/demo/broll/chapter-05.wav",
+      "alignment_path": "/Users/krishna/Documents/Switch/findback/app/demo/broll/chapter-05.alignment.json",
+      "duration_seconds": 23.44,
+      "sentences": [
+        {
+          "start": 0.277,
+          "end": 4.96,
+          "text": "FindBack continues in Alex’s private chat and asks him to confirm what he lost."
+        },
+        {
+          "start": 5.088,
+          "end": 9.92,
+          "text": "Then it asks an open question about distinguishing marks or contents."
+        },
+        {
+          "start": 9.96,
+          "end": 13.04,
+          "text": "The desk’s identifying answers stay private."
+        },
+        {
+          "start": 13.107,
+          "end": 19.6,
+          "text": "After struggling to remember at first, Alex describes a red thread on the zipper and initials inside the case."
+        },
+        {
+          "start": 19.7,
+          "end": 23.44,
+          "text": "His own description becomes the evidence the librarian can review."
+        }
+      ],
+      "start_seconds": 52.72,
+      "end_seconds": 76.16
+    },
+    {
+      "chapter": 6,
+      "label": "Mira makes the decision",
+      "text": "The agent takes that description to Mira’s private review conversation. It brings Alex’s words together with the desk’s record and explains the possible match. Mira checks the details and approves this specific case for Alex. Her approval authorizes collection, and the agent then reserves the item.",
+      "direction": "",
+      "mp3_path": "/Users/krishna/Documents/Switch/findback/app/demo/broll/chapter-06.mp3",
+      "wav_path": "/Users/krishna/Documents/Switch/findback/app/demo/broll/chapter-06.wav",
+      "alignment_path": "/Users/krishna/Documents/Switch/findback/app/demo/broll/chapter-06.alignment.json",
+      "duration_seconds": 19.6,
+      "sentences": [
+        {
+          "start": 0.0,
+          "end": 4.2,
+          "text": "The agent takes that description to Mira’s private review conversation."
+        },
+        {
+          "start": 4.32,
+          "end": 9.52,
+          "text": "It brings Alex’s words together with the desk’s record and explains the possible match."
+        },
+        {
+          "start": 9.84,
+          "end": 14.72,
+          "text": "Mira checks the details and approves this specific case for Alex."
+        },
+        {
+          "start": 14.82,
+          "end": 19.6,
+          "text": "Her approval authorizes collection, and the agent then reserves the item."
+        }
+      ],
+      "start_seconds": 76.16,
+      "end_seconds": 95.75999999999999
+    },
+    {
+      "chapter": 7,
+      "label": "An approved collection",
+      "text": "Alex receives a private confirmation: Mira has approved his request, and his case is reserved at the library desk. The collection instructions tell him to ask for Mira and show his recovery chat. He now knows where to go and what to do.",
+      "direction": "[relieved]",
+      "mp3_path": "/Users/krishna/Documents/Switch/findback/app/demo/broll/chapter-07.mp3",
+      "wav_path": "/Users/krishna/Documents/Switch/findback/app/demo/broll/chapter-07.wav",
+      "alignment_path": "/Users/krishna/Documents/Switch/findback/app/demo/broll/chapter-07.alignment.json",
+      "duration_seconds": 14.72,
+      "sentences": [
+        {
+          "start": 0.269,
+          "end": 7.52,
+          "text": "Alex receives a private confirmation: Mira has approved his request, and his case is reserved at the library desk."
+        },
+        {
+          "start": 7.58,
+          "end": 12.16,
+          "text": "The collection instructions tell him to ask for Mira and show his recovery chat."
+        },
+        {
+          "start": 12.24,
+          "end": 14.72,
+          "text": "He now knows where to go and what to do."
+        }
+      ],
+      "start_seconds": 95.75999999999999,
+      "end_seconds": 110.47999999999999
+    },
+    {
+      "chapter": 8,
+      "label": "The value of Switch",
+      "text": "The found-item post has become an approved pickup. The evidence and decision stay connected, and Alex doesn’t have to carry the conversation between people. Switch connects the group, the private chats, and the agents. AI coordinates the handoff; the librarian stays in control.",
+      "direction": "[confident]",
+      "mp3_path": "/Users/krishna/Documents/Switch/findback/app/demo/broll/chapter-08.mp3",
+      "wav_path": "/Users/krishna/Documents/Switch/findback/app/demo/broll/chapter-08.wav",
+      "alignment_path": "/Users/krishna/Documents/Switch/findback/app/demo/broll/chapter-08.alignment.json",
+      "duration_seconds": 17.12,
+      "sentences": [
+        {
+          "start": 0.068,
+          "end": 2.8,
+          "text": "The found-item post has become an approved pickup."
+        },
+        {
+          "start": 2.92,
+          "end": 8.88,
+          "text": "The evidence and decision stay connected, and Alex doesn’t have to carry the conversation between people."
+        },
+        {
+          "start": 8.937,
+          "end": 12.8,
+          "text": "Switch connects the group, the private chats, and the agents."
+        },
+        {
+          "start": 12.987,
+          "end": 17.12,
+          "text": "AI coordinates the handoff; the librarian stays in control."
+        }
+      ],
+      "start_seconds": 110.47999999999999,
+      "end_seconds": 127.6
+    }
+  ],
+  "duration_seconds": 127.6,
+  "wav_path": "/Users/krishna/Documents/Switch/findback/app/demo/broll/narration.wav",
+  "mp3_path": "/Users/krishna/Documents/Switch/findback/app/demo/broll/narration.mp3",
+  "srt_path": "/Users/krishna/Documents/Switch/findback/app/demo/broll/narration.srt"
+}

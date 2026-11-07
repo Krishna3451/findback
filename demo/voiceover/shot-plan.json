@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "target": "English narration, approximately three minutes",
+  "hero": "Alex",
+  "item": "Black headphone case",
+  "source_state": ".findback/live-campus",
+  "voice_track": null,
+  "final_timing_status": "Pending the user's actual recording; no fixed-speed narration is assumed.",
+  "scenes": [
+    {
+      "number": 1,
+      "paragraph": 1,
+      "view": "Campus group, then Ava's found-item post",
+      "url": "http://localhost:57898/switch/pl/5xjoudotutgiip8dhh4gh9fify",
+      "show": "Author, broad item description and library location. Keep the identifying answers out of this public shot.",
+      "status": "Actual source post verified"
+    },
+    {
+      "number": 2,
+      "paragraph": 2,
+      "view": "Open the reply thread on the same found-item post",
+      "url": "http://localhost:57898/switch/pl/mytx6wj77tyk9ffs3891j415jy",
+      "show": "Alex's actual reply and FindBack's private-chat invitation. Establish the connection to the source post before changing rooms.",
+      "status": "Actual claim root_id verified against Ava's post"
+    },
+    {
+      "number": 3,
+      "paragraph": 3,
+      "view": "Alex's private recovery conversation",
+      "url": "http://localhost:57898/switch/channels/findback-alex-4f73ef6b",
+      "show": "The confirmed report, non-leading question, then Alex's independently supplied red-thread and initials assertion.",
+      "status": "Earlier report/question exist; new identifying-answer stage waits for the recording session"
+    },
+    {
+      "number": 4,
+      "paragraph": 4,
+      "view": "Private librarian review, focused on the exact new Alex comparison card",
+      "url": "http://localhost:57898/switch/channels/findback-staff-4f73ef6b",
+      "show": "Recorded observations, claimant assertion and real model comparison; Mira's approval as a reply to that exact current card.",
+      "status": "Will capture after the identifying-answer stage; do not reuse the older insufficient-evidence review"
+    },
+    {
+      "number": 5,
+      "paragraph": 5,
+      "view": "Alex's private reservation and collection messages",
+      "url": "http://localhost:57898/switch/channels/findback-alex-4f73ef6b",
+      "show": "Mira approved the request, the item is reserved, and actual collection instructions tell Alex where to go and whom to ask for.",
+      "status": "Will capture after actual librarian approval and collection instructions; no handover or receipt"
+    },
+    {
+      "number": 6,
+      "paragraph": 6,
+      "view": "Brief route through the public thread and two private rooms; end on Alex's collection instructions",
+      "show": "The real chat workflow, with the librarian's authority clear. Keep the final state collection-ready.",
+      "status": "Final pacing will follow the voice track"
+    }
+  ],
+  "editing_rules": [
+    "Use the user's actual English narration and natural pace.",
+    "Identify the six paragraph boundaries from pauses and review them before cutting.",
+    "Record each actual Mattermost view to its paragraph's measured duration, with editing handles.",
+    "Cut navigation/loading and model-wait gaps; preserve the order and meaning of real events.",
+    "Do not generate or reconstruct a chat interface, approval or model response.",
+    "Do not crop or alter a message to change what it asserts.",
+    "End at approved collection, not a completed physical return."
+  ]
+}

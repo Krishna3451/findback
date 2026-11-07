@@ -1,0 +1,136 @@
+1
+00:00:00,320 --> 00:00:04,800
+Alex has lost his headphone case in the library, and
+he’s already late for his bus.
+
+2
+00:00:04,880 --> 00:00:08,720
+Somewhere nearby, Ava finds a case and wants to help.
+
+3
+00:00:08,770 --> 00:00:10,560
+Getting it back should be simple.
+
+4
+00:00:10,560 --> 00:00:15,280
+The usual solution is a post in the campus group: what
+was found, and where.
+
+5
+00:00:15,456 --> 00:00:18,400
+Alex spots it and replies beneath the message.
+
+6
+00:00:18,580 --> 00:00:21,680
+Now the finder and the possible owner are connected.
+
+7
+00:00:21,792 --> 00:00:23,360
+That’s a useful start.
+
+8
+00:00:23,496 --> 00:00:25,680
+But a black case is a common description.
+
+9
+00:00:25,880 --> 00:00:29,200
+The post doesn’t tell the librarian whose it is.
+
+10
+00:00:29,280 --> 00:00:34,800
+Someone still has to ask the right questions, check the
+answers, and arrange collection.
+
+11
+00:00:34,944 --> 00:00:38,880
+That handoff is where a helpful conversation can get
+stuck.
+
+12
+00:00:39,149 --> 00:00:41,280
+FindBack carries that conversation forward.
+
+13
+00:00:41,440 --> 00:00:52,720
+It connects the original post, the claimant’s private
+chat, and the librarian’s review—giving each person a
+clear next step while keeping the final decision with
+the librarian.
+
+14
+00:00:52,997 --> 00:00:57,680
+FindBack continues in Alex’s private chat and asks him
+to confirm what he lost.
+
+15
+00:00:57,808 --> 00:01:02,640
+Then it asks an open question about distinguishing
+marks or contents.
+
+16
+00:01:02,680 --> 00:01:05,760
+The desk’s identifying answers stay private.
+
+17
+00:01:05,827 --> 00:01:12,320
+After struggling to remember at first, Alex describes a
+red thread on the zipper and initials inside the case.
+
+18
+00:01:12,420 --> 00:01:16,160
+His own description becomes the evidence the librarian
+can review.
+
+19
+00:01:16,160 --> 00:01:20,360
+The agent takes that description to Mira’s private
+review conversation.
+
+20
+00:01:20,480 --> 00:01:25,680
+It brings Alex’s words together with the desk’s record
+and explains the possible match.
+
+21
+00:01:26,000 --> 00:01:30,880
+Mira checks the details and approves this specific case
+for Alex.
+
+22
+00:01:30,980 --> 00:01:35,760
+Her approval authorizes collection, and the agent then
+reserves the item.
+
+23
+00:01:36,029 --> 00:01:43,280
+Alex receives a private confirmation: Mira has approved
+his request, and his case is reserved at the library
+desk.
+
+24
+00:01:43,340 --> 00:01:47,920
+The collection instructions tell him to ask for Mira
+and show his recovery chat.
+
+25
+00:01:48,000 --> 00:01:50,480
+He now knows where to go and what to do.
+
+26
+00:01:50,548 --> 00:01:53,280
+The found-item post has become an approved pickup.
+
+27
+00:01:53,400 --> 00:01:59,360
+The evidence and decision stay connected, and Alex
+doesn’t have to carry the conversation between people.
+
+28
+00:01:59,417 --> 00:02:03,280
+Switch connects the group, the private chats, and the
+agents.
+
+29
+00:02:03,467 --> 00:02:07,600
+AI coordinates the handoff; the librarian stays in
+control.

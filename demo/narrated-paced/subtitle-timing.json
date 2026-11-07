@@ -1,0 +1,187 @@
+{
+  "subtitle_file": "narration.srt",
+  "source_timing_file": "/Users/krishna/Documents/Switch/findback/app/demo/broll/narration-manifest.json",
+  "final_timing_file": "narrated-manifest.json",
+  "voice_tempo_factor": 0.75,
+  "audio_seconds": 169.99485416666667,
+  "cue_count": 29,
+  "first_cue_seconds": 0.426,
+  "last_cue_seconds": 169.995,
+  "method": "Provider sentence cues scaled by measured output/input chapter PCM duration (checked against voice_tempo_factor), shifted to exact normalized chapter starts and clamped to actual chapter audio end. No MP4 changes.",
+  "cues": [
+    {
+      "chapter": 1,
+      "start_ms": 426,
+      "end_ms": 6388,
+      "text": "Alex has lost his headphone case in the library, and he’s already late for his bus."
+    },
+    {
+      "chapter": 1,
+      "start_ms": 6494,
+      "end_ms": 11604,
+      "text": "Somewhere nearby, Ava finds a case and wants to help."
+    },
+    {
+      "chapter": 1,
+      "start_ms": 11671,
+      "end_ms": 14053,
+      "text": "Getting it back should be simple."
+    },
+    {
+      "chapter": 2,
+      "start_ms": 14053,
+      "end_ms": 20340,
+      "text": "The usual solution is a post in the campus group: what was found, and where."
+    },
+    {
+      "chapter": 2,
+      "start_ms": 20574,
+      "end_ms": 24495,
+      "text": "Alex spots it and replies beneath the message."
+    },
+    {
+      "chapter": 2,
+      "start_ms": 24735,
+      "end_ms": 28864,
+      "text": "Now the finder and the possible owner are connected."
+    },
+    {
+      "chapter": 2,
+      "start_ms": 29013,
+      "end_ms": 31102,
+      "text": "That’s a useful start."
+    },
+    {
+      "chapter": 3,
+      "start_ms": 31283,
+      "end_ms": 34195,
+      "text": "But a black case is a common description."
+    },
+    {
+      "chapter": 3,
+      "start_ms": 34462,
+      "end_ms": 38888,
+      "text": "The post doesn’t tell the librarian whose it is."
+    },
+    {
+      "chapter": 3,
+      "start_ms": 38994,
+      "end_ms": 46354,
+      "text": "Someone still has to ask the right questions, check the answers, and arrange collection."
+    },
+    {
+      "chapter": 3,
+      "start_ms": 46546,
+      "end_ms": 51793,
+      "text": "That handoff is where a helpful conversation can get stuck."
+    },
+    {
+      "chapter": 4,
+      "start_ms": 52152,
+      "end_ms": 54991,
+      "text": "FindBack carries that conversation forward."
+    },
+    {
+      "chapter": 4,
+      "start_ms": 55205,
+      "end_ms": 70236,
+      "text": "It connects the original post, the claimant’s private chat, and the librarian’s review—giving each person a clear next step while keeping the final decision with the librarian."
+    },
+    {
+      "chapter": 5,
+      "start_ms": 70605,
+      "end_ms": 76846,
+      "text": "FindBack continues in Alex’s private chat and asks him to confirm what he lost."
+    },
+    {
+      "chapter": 5,
+      "start_ms": 77017,
+      "end_ms": 83457,
+      "text": "Then it asks an open question about distinguishing marks or contents."
+    },
+    {
+      "chapter": 5,
+      "start_ms": 83510,
+      "end_ms": 87615,
+      "text": "The desk’s identifying answers stay private."
+    },
+    {
+      "chapter": 5,
+      "start_ms": 87705,
+      "end_ms": 96359,
+      "text": "After struggling to remember at first, Alex describes a red thread on the zipper and initials inside the case."
+    },
+    {
+      "chapter": 5,
+      "start_ms": 96492,
+      "end_ms": 101476,
+      "text": "His own description becomes the evidence the librarian can review."
+    },
+    {
+      "chapter": 6,
+      "start_ms": 101476,
+      "end_ms": 107072,
+      "text": "The agent takes that description to Mira’s private review conversation."
+    },
+    {
+      "chapter": 6,
+      "start_ms": 107232,
+      "end_ms": 114159,
+      "text": "It brings Alex’s words together with the desk’s record and explains the possible match."
+    },
+    {
+      "chapter": 6,
+      "start_ms": 114586,
+      "end_ms": 121087,
+      "text": "Mira checks the details and approves this specific case for Alex."
+    },
+    {
+      "chapter": 6,
+      "start_ms": 121220,
+      "end_ms": 127588,
+      "text": "Her approval authorizes collection, and the agent then reserves the item."
+    },
+    {
+      "chapter": 7,
+      "start_ms": 127947,
+      "end_ms": 137603,
+      "text": "Alex receives a private confirmation: Mira has approved his request, and his case is reserved at the library desk."
+    },
+    {
+      "chapter": 7,
+      "start_ms": 137683,
+      "end_ms": 143782,
+      "text": "The collection instructions tell him to ask for Mira and show his recovery chat."
+    },
+    {
+      "chapter": 7,
+      "start_ms": 143889,
+      "end_ms": 147191,
+      "text": "He now knows where to go and what to do."
+    },
+    {
+      "chapter": 8,
+      "start_ms": 147282,
+      "end_ms": 150921,
+      "text": "The found-item post has become an approved pickup."
+    },
+    {
+      "chapter": 8,
+      "start_ms": 151081,
+      "end_ms": 159019,
+      "text": "The evidence and decision stay connected, and Alex doesn’t have to carry the conversation between people."
+    },
+    {
+      "chapter": 8,
+      "start_ms": 159095,
+      "end_ms": 164241,
+      "text": "Switch connects the group, the private chats, and the agents."
+    },
+    {
+      "chapter": 8,
+      "start_ms": 164490,
+      "end_ms": 169995,
+      "text": "AI coordinates the handoff; the librarian stays in control."
+    }
+  ]
+}

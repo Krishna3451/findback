@@ -1,0 +1,11 @@
+Imagine losing your headphone case in a busy university library. You’re not sure who to ask, or whether someone has already found it. In the campus group, another student posts a simple message: a black headphone case has been found and is being taken to the library desk. That message is the starting point for FindBack: turning a public lost-and-found conversation into an approved pickup.
+
+Alex replies directly beneath that post. He says he has lost a similar case. Now his claim and the original report stay connected in one thread. But a black case is a common description, so the librarian still needs something more specific before approving collection.
+
+FindBack continues the conversation in Alex’s private chat. It asks him to confirm the report, then describe any marks, contents, or accessories that would help identify his case. It does not reveal what the librarian has already recorded. After struggling to remember at first, Alex describes a red thread on the zipper and initials on the inside label. His answer is saved in his own words and sent for review.
+
+Next, we move to Mira’s private review conversation. Mira is the librarian holding the item. The agent brings together the found-item record and Alex’s description, showing what agrees and what still needs checking. It proposes a possible match. Mira reads the comparison and approves this specific case for Alex. Her own librarian account authorizes the pickup, tied to the evidence she reviewed.
+
+FindBack then replies privately to Alex. Mira has approved his request, the case is reserved, and he can collect it from the library desk. The instructions tell him to ask for Mira and show this private recovery chat when he arrives. He has a clear next step, without needing to chase the finder or repeat his story in the group.
+
+Switch connects the public channel, Alex’s private chat, and the librarian’s review. The agents handle the coordination while the librarian stays in control of the decision. We finish at approved collection. After the handover, staff and Alex would both confirm it before FindBack records a completed return.
