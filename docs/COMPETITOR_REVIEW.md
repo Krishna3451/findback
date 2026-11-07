@@ -48,9 +48,16 @@ input processing with a reserved librarian slot and cancellation-safe replay.
 [Operations](OPERATIONS.md), [delivery tests](../tests/test_delivery.py) and
 [scheduling tests](../tests/test_scheduling.py) define the verified boundaries.
 
-The new CI is configured for locked behavioral checks and an installed-wheel smoke
-test on Linux and macOS. Its initial hosted runners did not start; the exact
-staged source and installed wheel passed locally. Existing live token/room checks
-were rerun separately. This is
-**not** a new clean-stack live Switch/model E2E job or a held-out model-quality
-evaluation; those remain distinct opportunities from items 3 and 4 above.
+The locked unit/wheel CI remains configured for Linux and macOS; hosted runners
+have not started successfully, so no hosted pass is claimed. The later extension
+also implements [fresh-stack verification](FRESH_STACK_E2E.md): pinned independent
+Core/Mattermost/PostgreSQL services, controlled-model and actual-Codex runs,
+22 scenario checks plus 28 access checks, real server replay and verified teardown.
+
+A separately authored, sealed held-out corpus was evaluated against the frozen
+production adapter and scorer before the implementation author inspected it.
+[First results](../evals/v1/RESULTS.md) retain 17/18 all-check-pass cases and 97/98
+narrow probes, with the miss reviewed and unchanged. This closes implementation
+opportunities 3 and 4 as bounded local proofs; it does not establish a population
+accuracy estimate, an externally adjudicated benchmark, a physical return or a
+hosted CI result. The original fresh-stack harness failure is retained as well.
