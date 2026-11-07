@@ -1,14 +1,26 @@
 {
-  "video": "FindBack-submission-demo.mp4",
-  "duration_seconds": 169.994854,
-  "video_decode": "passed",
-  "video_codec": "H264",
-  "audio_codec": "AAC",
-  "audio_peak_dbfs": -0.4,
-  "subtitle_status": "passed; 29 timed cues",
+  "video": "demo/miles-story/FindBack-Miles-story-demo.mp4",
+  "sha256": "44d2745b97befa333efc35e63d3f17a1c06f704a8ce6928c8e0ad1040b099473",
+  "duration_seconds": 188.917563,
+  "dimensions": [
+    1920,
+    1080
+  ],
+  "fps": 24,
+  "voice": "Miles \u2014 Confident, Upbeat and Smooth",
+  "voice_id": "vSjOBQp24DUB2COr2xI9",
+  "history_item_id": "5CTrHXKIl4XLO2zMEg35",
+  "voice_tempo_factor": 1.0,
+  "single_continuous_narration": true,
+  "word_count": 473,
+  "story_beats": 14,
+  "subtitle_cues": 44,
+  "source_recording": "same fresh interactive take",
+  "decode": "passed",
+  "continuous_audio_hash": "passed",
+  "independent_screen_anchor_checks": "passed",
   "package_integrity": "passed",
   "credential_scan": "passed",
-  "scene_clips": 8,
-  "sha256": "66e30022a0c0602c5b1fb8ccc687a609f62e347c496f88d20dbbf8b11abc75a5",
-  "submission_package": "FindBack-submission-pack.zip"
+  "package": "demo/FindBack-Miles-story-pack.zip",
+  "package_scope": "Local delivery artifact; ZIP is not tracked in Git."
 }

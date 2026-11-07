@@ -1,30 +1,14 @@
-FINDBACK — SUBMISSION VIDEO
+FINDBACK — LATEST DELIVERY
 
-Use FindBack-submission-demo.mp4 for the narrated backup submission.
-Duration: 2 minutes 50 seconds. English AI narration: ElevenLabs Sarah.
+Play miles-story/FindBack-Miles-story-demo.mp4.
+Voice: Miles — Confident, Upbeat and Smooth, exactly the voice from the referenced chat.
+Length: 3:08.918. Full 1920×1080 landscape, 24 fps, normal native voice speed.
 
-Files:
-FindBack-submission-demo.mp4 — finished paced video.
-narrated-natural/findback-narrated-demo.mp4 — shorter, original-speed 2:08 version.
-findback-broll-and-voice.zip — eight editable scene clips, a silent three-minute scaffold, the original voice track and current narration script.
-broll/narration-script.txt — current eight-scene storytelling script.
+FindBack-submission-demo.mp4 and FindBack-submission-demo.srt are matching copies of this latest version.
+FindBack-submission-pack.zip and FindBack-Miles-story-pack.zip are local delivery artifacts containing the latest video, subtitles, standalone mastered MP3, exact narration script, notes and voice provenance. The ZIPs are not tracked in the GitHub repository.
 
-The silent scaffold is for a separate human voiceover edit. Its scene lengths differ from the finished narrated cuts; do not simply lay the natural voice track onto it.
+The same approved 473-word story and actual recorded chat run are retained, with smooth transitions synchronized to Miles. Public and private messages, Noah’s ambiguity warning, Intake and Matcher working, Mira’s review, and collection instructions are included.
 
-Suggested video description:
-FindBack follows fictional campus participants and objects through a real recorded Mattermost/Switch workflow, with AI-generated English narration. Alex’s case ends approved and reserved for collection, before physical handover or receipt.
+Participants and objects are fictional. The local Mattermost/Switch workflow, agent calls, messages and authorization checks ran for real. The recording is edited with reading holds and shortened waits. The item ends approved and reserved; handover and receipt remain pending.
 
-Editing disclosure:
-The visuals are actual browser screenshots, edited with cuts, compressed waits and holds of real frames. This is a recorded walkthrough of a scripted fictional scenario, not continuous footage of every event. The messages, AI comparison, approval checks and Switch transport ran through the app.
-
-Finished paced scene timings:
-0:00–0:14  Campus context: the public lost-and-found conversation
-0:14–0:31  Found item: Ava reports the black headphone case
-0:31–0:51  Alex replies directly to Ava’s found post; FindBack invites him privately
-0:51–1:10  The public invitation leads into Alex’s private recovery chat
-1:10–1:41  Alex privately supplies identifying details; his exact words are acknowledged
-1:41–2:07  Mira reviews the actual AI comparison and approves Alex’s exact case
-2:07–2:27  Alex receives the private reservation and complete collection instructions
-2:27–2:49  The public claim, Mira’s actual approval, and Alex’s collection-ready ending
-
-Publication note: duplicate rendered chapter videos, raw audio, and working ZIP bundles stay local. The public repository includes the finished submission video, subtitles, source scripts, edit manifests, and narration text.
+Earlier voices remain separately in the local workspace in story-voiceover, interactive, and other earlier folders. See miles-story/START-HERE.txt for details.

@@ -1,0 +1,20 @@
+FINDBACK — MILES STORY DEMO
+
+Play FindBack-Miles-story-demo.mp4.
+Voice: Miles — Confident, Upbeat and Smooth, the exact voice used in the referenced chat.
+Length: approximately 3 minutes 9 seconds. Full 1920×1080 landscape, 24 fps.
+
+The same approved 473-word narration and the same recorded chat run are retained. The scenes and subtitles are synchronized to Miles's actual word timings. The voice was generated in the signed-in ElevenLabs Chrome interface and downloaded through the official history API. It is one continuous recording at native speed; only whole-track loudness mastering was applied.
+
+The story includes Alex, Elena, Ava, Noah, FindBack Intake, Matcher, and librarian Mira. Public messages lead into Alex's private recovery chat, the staff comparison and decision, private collection instructions, and Alex's final public thanks.
+
+Participants and objects are fictional demo data. The chat messages, agent calls, Switch coordination, and authorization checks ran through the real local Mattermost/Switch application. This is recorded behavior, edited with reading holds, shortened waits, and smooth transitions between actual screen captures. The final state is approved and reserved for collection; physical handover and receipt remain pending.
+
+Included delivery files:
+FindBack-Miles-story-demo.mp4 — finished video
+FindBack-Miles-story-demo.srt — synchronized optional captions
+narration.mp3 — standalone mastered voiceover
+narration-script.txt — exact spoken script
+START-HERE.txt — this note
+
+Previous Chris and Sarah versions remain in their separate local workspace folders.

@@ -1,0 +1,51 @@
+{
+  "provider": "ElevenLabs",
+  "official_api": "https://api.elevenlabs.io",
+  "voice_id": "vSjOBQp24DUB2COr2xI9",
+  "voice_name": "Miles - Confident, Upbeat and Smooth",
+  "model_id": "eleven_multilingual_v2",
+  "history_item_id": "5CTrHXKIl4XLO2zMEg35",
+  "history_date_unix": 1794081776,
+  "generation_source": "ElevenLabs browser UI; existing audio downloaded with official history GET API.",
+  "downloader_generated_speech": false,
+  "download_method": "GET",
+  "native_tempo_factor": 1.0,
+  "single_continuous_generation": true,
+  "input_characters": 2814,
+  "script_sha256": "aa8ee48ead87fb72f8cff6d6315327688eb89cc78c01f5457340e951f3fe727d",
+  "ai_generated_narration": true,
+  "downloaded_at_unix": 1794081951,
+  "downloaded_bytes": 3039617,
+  "original_audio_sha256": "d4beb472f8ba76e50fd693494fa8a9673ccda1eafaddc87176af63a930a6d057",
+  "matching": {
+    "exact_voice": true,
+    "exact_script_after_quotes_and_spacing_normalization": true,
+    "date_after_unix_inclusive": 1794081761,
+    "date_before_unix_exclusive": null
+  },
+  "provider_alignment_preserved": true,
+  "provider_alignment_file": "provider-alignment.json",
+  "alignment_conversion": {
+    "alignment": {
+      "method": "History end field contains per-character durations; derived absolute_end=global_start+duration.",
+      "independent_next_start_deltas_checked": 2813,
+      "maximum_delta_error_seconds": 2.751271432899216e-14,
+      "characters": 2814,
+      "last_spoken_end_seconds": 188.871
+    },
+    "normalized_alignment": {
+      "method": "History end field contains per-character durations; derived absolute_end=global_start+duration.",
+      "independent_next_start_deltas_checked": 2813,
+      "maximum_delta_error_seconds": 2.751271432899216e-14,
+      "characters": 2814,
+      "last_spoken_end_seconds": 188.871
+    }
+  },
+  "voice_settings": {
+    "speed": 1.0,
+    "similarity_boost": 1.0,
+    "use_speaker_boost": true,
+    "stability": 0.45,
+    "style": 0.0
+  }
+}

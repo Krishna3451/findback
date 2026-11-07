@@ -17,4 +17,8 @@ demo/**/*.mp4
 !demo/FindBack-submission-demo-male.mp4
 demo/**/*.wav
 demo/**/*.mp3
+demo/**/*.m4a
 demo/**/*.zip
+# Local account-interface proofs are not submission assets.
+demo/**/elevenlabs-*-proof.png
+demo/**/youtube-upload-proof.png
