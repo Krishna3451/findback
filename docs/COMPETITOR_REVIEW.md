@@ -48,7 +48,9 @@ input processing with a reserved librarian slot and cancellation-safe replay.
 [Operations](OPERATIONS.md), [delivery tests](../tests/test_delivery.py) and
 [scheduling tests](../tests/test_scheduling.py) define the verified boundaries.
 
-The new CI runs locked behavioral checks and an installed-wheel smoke test on
-Linux and macOS. Existing live token/room checks were rerun separately. This is
+The new CI is configured for locked behavioral checks and an installed-wheel smoke
+test on Linux and macOS. Its initial hosted runners did not start; the exact
+staged source and installed wheel passed locally. Existing live token/room checks
+were rerun separately. This is
 **not** a new clean-stack live Switch/model E2E job or a held-out model-quality
 evaluation; those remain distinct opportunities from items 3 and 4 above.
